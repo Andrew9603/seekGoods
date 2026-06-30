@@ -38,9 +38,6 @@ outputs/
 demo/results/
 submission_online_robust_initial/
 
-# Large competition/local data
-demo/server/data/cargo_dataset.jsonl
-
 # OS/editor
 .DS_Store
 Thumbs.db

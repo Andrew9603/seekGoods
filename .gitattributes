@@ -3,3 +3,4 @@
 # statistics focused on the Agent/backend implementation.
 vis/** linguist-vendored=true
 vis/** linguist-detectable=false
+demo/server/data/cargo_dataset.jsonl filter=lfs diff=lfs merge=lfs -text
