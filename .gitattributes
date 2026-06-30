@@ -1,5 +1,5 @@
 # GitHub language statistics
 # The Vue app is an auxiliary visualization layer; keep repository language
 # statistics focused on the Agent/backend implementation.
-vis/** linguist-vendored
-
+vis/** linguist-vendored=true
+vis/** linguist-detectable=false
