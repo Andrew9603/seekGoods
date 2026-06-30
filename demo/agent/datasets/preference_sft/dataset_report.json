@@ -1,0 +1,76 @@
+{
+  "seed": 20260623,
+  "counts": {
+    "train": 2500,
+    "val": 300,
+    "test": 400,
+    "challenge": 200
+  },
+  "duplicate_text_count": 0,
+  "duplicate_examples": [],
+  "rule_distribution": {
+    "train": {
+      "hard_category": 457,
+      "required_stop": 486,
+      "daily_rest": 408,
+      "only_region": 429,
+      "pickup_limit": 437,
+      "region_days": 460,
+      "haul_limit": 410,
+      "region_ban": 403,
+      "dated_region_ban": 434,
+      "off_days": 436,
+      "soft_category": 425,
+      "rest_window": 446,
+      "home": 414
+    },
+    "val": {
+      "dated_region_ban": 55,
+      "off_days": 57,
+      "only_region": 59,
+      "region_ban": 56,
+      "soft_category": 49,
+      "pickup_limit": 46,
+      "home": 48,
+      "daily_rest": 46,
+      "region_days": 46,
+      "hard_category": 50,
+      "required_stop": 50,
+      "rest_window": 53,
+      "haul_limit": 53
+    },
+    "test": {
+      "daily_rest": 76,
+      "home": 62,
+      "off_days": 56,
+      "required_stop": 65,
+      "only_region": 80,
+      "soft_category": 69,
+      "pickup_limit": 63,
+      "haul_limit": 76,
+      "region_ban": 72,
+      "region_days": 59,
+      "rest_window": 62,
+      "hard_category": 62,
+      "dated_region_ban": 74
+    },
+    "challenge": {
+      "haul_limit": 13,
+      "unknown_hard": 200,
+      "region_days": 20,
+      "required_stop": 16,
+      "hard_category": 15,
+      "dated_region_ban": 17,
+      "pickup_limit": 16,
+      "only_region": 14,
+      "region_ban": 20,
+      "daily_rest": 13,
+      "home": 14,
+      "off_days": 15,
+      "soft_category": 16,
+      "rest_window": 11
+    }
+  },
+  "schema": "seekgoods_preference_constraints_v1",
+  "public_seed_count": 12
+}

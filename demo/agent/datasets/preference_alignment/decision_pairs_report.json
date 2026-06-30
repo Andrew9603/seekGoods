@@ -1,0 +1,9 @@
+{
+  "total_pairs": 271,
+  "train_pairs": 230,
+  "val_pairs": 41,
+  "pair_type_counts": {
+    "mpc_overrides_greedy": 14,
+    "ranked_lower": 257
+  }
+}

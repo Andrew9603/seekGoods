@@ -1,0 +1,3659 @@
+{
+  "schema_version": 1,
+  "record_count": 500000,
+  "hour_prior": {
+    "0": {
+      "count": 2094,
+      "density": 0.04321,
+      "avg_price": 52290.85,
+      "avg_duration_minutes": 530.52,
+      "avg_profit_per_hour": 5722.13,
+      "bonus": 33.1
+    },
+    "1": {
+      "count": 1030,
+      "density": 0.02125,
+      "avg_price": 54766.09,
+      "avg_duration_minutes": 546.0,
+      "avg_profit_per_hour": 5736.14,
+      "bonus": 31.72
+    },
+    "2": {
+      "count": 548,
+      "density": 0.01131,
+      "avg_price": 50634.09,
+      "avg_duration_minutes": 504.89,
+      "avg_profit_per_hour": 5755.81,
+      "bonus": 31.17
+    },
+    "3": {
+      "count": 371,
+      "density": 0.00766,
+      "avg_price": 51018.98,
+      "avg_duration_minutes": 529.75,
+      "avg_profit_per_hour": 5581.94,
+      "bonus": 30.01
+    },
+    "4": {
+      "count": 331,
+      "density": 0.00683,
+      "avg_price": 51515.48,
+      "avg_duration_minutes": 503.96,
+      "avg_profit_per_hour": 5937.83,
+      "bonus": 31.84
+    },
+    "5": {
+      "count": 618,
+      "density": 0.01275,
+      "avg_price": 49662.6,
+      "avg_duration_minutes": 508.1,
+      "avg_profit_per_hour": 5611.32,
+      "bonus": 30.5
+    },
+    "6": {
+      "count": 2582,
+      "density": 0.05328,
+      "avg_price": 44150.84,
+      "avg_duration_minutes": 480.07,
+      "avg_profit_per_hour": 5337.61,
+      "bonus": 31.73
+    },
+    "7": {
+      "count": 12335,
+      "density": 0.25452,
+      "avg_price": 42905.05,
+      "avg_duration_minutes": 476.04,
+      "avg_profit_per_hour": 5253.68,
+      "bonus": 44.57
+    },
+    "8": {
+      "count": 33942,
+      "density": 0.70035,
+      "avg_price": 41171.21,
+      "avg_duration_minutes": 476.22,
+      "avg_profit_per_hour": 5062.87,
+      "bonus": 72.98
+    },
+    "9": {
+      "count": 48464,
+      "density": 1.0,
+      "avg_price": 41495.86,
+      "avg_duration_minutes": 483.17,
+      "avg_profit_per_hour": 5045.98,
+      "bonus": 92.67
+    },
+    "10": {
+      "count": 48102,
+      "density": 0.99253,
+      "avg_price": 42732.59,
+      "avg_duration_minutes": 490.54,
+      "avg_profit_per_hour": 5107.44,
+      "bonus": 92.5
+    },
+    "11": {
+      "count": 41462,
+      "density": 0.85552,
+      "avg_price": 43400.01,
+      "avg_duration_minutes": 497.22,
+      "avg_profit_per_hour": 5113.27,
+      "bonus": 83.49
+    },
+    "12": {
+      "count": 33799,
+      "density": 0.6974,
+      "avg_price": 42524.11,
+      "avg_duration_minutes": 491.64,
+      "avg_profit_per_hour": 5042.96,
+      "bonus": 72.68
+    },
+    "13": {
+      "count": 36579,
+      "density": 0.75477,
+      "avg_price": 40692.26,
+      "avg_duration_minutes": 482.53,
+      "avg_profit_per_hour": 4909.14,
+      "bonus": 75.76
+    },
+    "14": {
+      "count": 44138,
+      "density": 0.91074,
+      "avg_price": 41606.73,
+      "avg_duration_minutes": 491.36,
+      "avg_profit_per_hour": 4957.15,
+      "bonus": 86.31
+    },
+    "15": {
+      "count": 42222,
+      "density": 0.8712,
+      "avg_price": 42885.45,
+      "avg_duration_minutes": 500.66,
+      "avg_profit_per_hour": 5013.23,
+      "bonus": 84.0
+    },
+    "16": {
+      "count": 37917,
+      "density": 0.78237,
+      "avg_price": 43692.37,
+      "avg_duration_minutes": 506.06,
+      "avg_profit_per_hour": 5063.47,
+      "bonus": 78.4
+    },
+    "17": {
+      "count": 31500,
+      "density": 0.64997,
+      "avg_price": 44837.31,
+      "avg_duration_minutes": 509.93,
+      "avg_profit_per_hour": 5162.84,
+      "bonus": 70.19
+    },
+    "18": {
+      "count": 24165,
+      "density": 0.49862,
+      "avg_price": 46130.27,
+      "avg_duration_minutes": 516.25,
+      "avg_profit_per_hour": 5231.41,
+      "bonus": 60.56
+    },
+    "19": {
+      "count": 19549,
+      "density": 0.40337,
+      "avg_price": 46527.52,
+      "avg_duration_minutes": 512.39,
+      "avg_profit_per_hour": 5292.13,
+      "bonus": 54.6
+    },
+    "20": {
+      "count": 15355,
+      "density": 0.31683,
+      "avg_price": 46729.74,
+      "avg_duration_minutes": 509.97,
+      "avg_profit_per_hour": 5346.43,
+      "bonus": 49.17
+    },
+    "21": {
+      "count": 11309,
+      "density": 0.23335,
+      "avg_price": 47347.7,
+      "avg_duration_minutes": 509.88,
+      "avg_profit_per_hour": 5406.29,
+      "bonus": 43.98
+    },
+    "22": {
+      "count": 7516,
+      "density": 0.15508,
+      "avg_price": 49654.79,
+      "avg_duration_minutes": 520.31,
+      "avg_profit_per_hour": 5574.0,
+      "bonus": 39.7
+    },
+    "23": {
+      "count": 4072,
+      "density": 0.08402,
+      "avg_price": 48820.01,
+      "avg_duration_minutes": 512.56,
+      "avg_profit_per_hour": 5572.95,
+      "bonus": 35.0
+    }
+  },
+  "region_prior": {
+    "广东省东莞市高埗镇": {
+      "count": 3729,
+      "density": 0.06086,
+      "avg_price": 33023.32,
+      "avg_duration_minutes": 445.38,
+      "avg_profit_per_hour": 4485.28,
+      "bonus": 27.73
+    },
+    "广东省珠海市斗门区": {
+      "count": 1569,
+      "density": 0.02561,
+      "avg_price": 53162.09,
+      "avg_duration_minutes": 515.47,
+      "avg_profit_per_hour": 6091.7,
+      "bonus": 33.89
+    },
+    "广东省广州市增城区": {
+      "count": 9215,
+      "density": 0.1504,
+      "avg_price": 40347.29,
+      "avg_duration_minutes": 457.52,
+      "avg_profit_per_hour": 5266.91,
+      "bonus": 37.77
+    },
+    "广东省江门市江海区": {
+      "count": 1942,
+      "density": 0.0317,
+      "avg_price": 38708.96,
+      "avg_duration_minutes": 469.92,
+      "avg_profit_per_hour": 4954.52,
+      "bonus": 28.28
+    },
+    "广东省广州市番禺区": {
+      "count": 8516,
+      "density": 0.13899,
+      "avg_price": 37564.05,
+      "avg_duration_minutes": 444.89,
+      "avg_profit_per_hour": 4937.45,
+      "bonus": 35.27
+    },
+    "广东省深圳市宝安区": {
+      "count": 8697,
+      "density": 0.14195,
+      "avg_price": 30046.57,
+      "avg_duration_minutes": 426.03,
+      "avg_profit_per_hour": 4221.76,
+      "bonus": 31.68
+    },
+    "广东省潮州市潮安区": {
+      "count": 4079,
+      "density": 0.06657,
+      "avg_price": 67624.19,
+      "avg_duration_minutes": 792.12,
+      "avg_profit_per_hour": 5121.54,
+      "bonus": 31.47
+    },
+    "广东省珠海市香洲区": {
+      "count": 1690,
+      "density": 0.02758,
+      "avg_price": 55385.05,
+      "avg_duration_minutes": 517.11,
+      "avg_profit_per_hour": 6189.33,
+      "bonus": 34.54
+    },
+    "广东省东莞市谢岗镇": {
+      "count": 1692,
+      "density": 0.02762,
+      "avg_price": 33430.08,
+      "avg_duration_minutes": 451.44,
+      "avg_profit_per_hour": 4488.5,
+      "bonus": 25.55
+    },
+    "广东省清远市英德市": {
+      "count": 2983,
+      "density": 0.04869,
+      "avg_price": 65090.72,
+      "avg_duration_minutes": 575.79,
+      "avg_profit_per_hour": 6736.63,
+      "bonus": 38.82
+    },
+    "广东省东莞市麻涌镇": {
+      "count": 2364,
+      "density": 0.03858,
+      "avg_price": 52979.7,
+      "avg_duration_minutes": 488.48,
+      "avg_profit_per_hour": 6328.01,
+      "bonus": 36.0
+    },
+    "广东省阳江市江城区": {
+      "count": 1663,
+      "density": 0.02714,
+      "avg_price": 78097.86,
+      "avg_duration_minutes": 700.28,
+      "avg_profit_per_hour": 6426.3,
+      "bonus": 35.76
+    },
+    "广东省深圳市龙岗区": {
+      "count": 11851,
+      "density": 0.19342,
+      "avg_price": 32302.3,
+      "avg_duration_minutes": 448.73,
+      "avg_profit_per_hour": 4243.87,
+      "bonus": 35.2
+    },
+    "广东省深圳市福田区": {
+      "count": 442,
+      "density": 0.00721,
+      "avg_price": 37553.1,
+      "avg_duration_minutes": 445.41,
+      "avg_profit_per_hour": 5076.84,
+      "bonus": 27.31
+    },
+    "广东省揭阳市普宁市": {
+      "count": 3441,
+      "density": 0.05616,
+      "avg_price": 68233.97,
+      "avg_duration_minutes": 690.25,
+      "avg_profit_per_hour": 5883.71,
+      "bonus": 34.81
+    },
+    "广东省佛山市南海区": {
+      "count": 38279,
+      "density": 0.62476,
+      "avg_price": 39761.85,
+      "avg_duration_minutes": 472.88,
+      "avg_profit_per_hour": 4999.54,
+      "bonus": 67.66
+    },
+    "广东省广州市白云区": {
+      "count": 61270,
+      "density": 1.0,
+      "avg_price": 32993.45,
+      "avg_duration_minutes": 440.36,
+      "avg_profit_per_hour": 4523.65,
+      "bonus": 89.91
+    },
+    "广东省东莞市常平镇": {
+      "count": 7901,
+      "density": 0.12895,
+      "avg_price": 31011.15,
+      "avg_duration_minutes": 433.84,
+      "avg_profit_per_hour": 4363.36,
+      "bonus": 31.57
+    },
+    "广东省惠州市惠城区": {
+      "count": 9044,
+      "density": 0.14761,
+      "avg_price": 38245.99,
+      "avg_duration_minutes": 463.34,
+      "avg_profit_per_hour": 4937.36,
+      "bonus": 35.84
+    },
+    "广东省东莞市桥头镇": {
+      "count": 2438,
+      "density": 0.03979,
+      "avg_price": 31338.24,
+      "avg_duration_minutes": 449.42,
+      "avg_profit_per_hour": 4242.64,
+      "bonus": 25.05
+    },
+    "广东省广州市黄埔区": {
+      "count": 9274,
+      "density": 0.15136,
+      "avg_price": 41731.27,
+      "avg_duration_minutes": 448.07,
+      "avg_profit_per_hour": 5520.74,
+      "bonus": 39.17
+    },
+    "广东省佛山市三水区": {
+      "count": 10003,
+      "density": 0.16326,
+      "avg_price": 45977.2,
+      "avg_duration_minutes": 477.74,
+      "avg_profit_per_hour": 5708.92,
+      "bonus": 40.95
+    },
+    "广东省惠州市龙门县": {
+      "count": 1052,
+      "density": 0.01717,
+      "avg_price": 58755.78,
+      "avg_duration_minutes": 532.45,
+      "avg_profit_per_hour": 6715.21,
+      "bonus": 36.63
+    },
+    "广东省中山市大涌镇": {
+      "count": 792,
+      "density": 0.01293,
+      "avg_price": 54571.41,
+      "avg_duration_minutes": 620.63,
+      "avg_profit_per_hour": 5119.08,
+      "bonus": 27.91
+    },
+    "广东省深圳市龙华区": {
+      "count": 2649,
+      "density": 0.04323,
+      "avg_price": 31466.38,
+      "avg_duration_minutes": 442.07,
+      "avg_profit_per_hour": 4190.02,
+      "bonus": 25.0
+    },
+    "广东省汕尾市陆丰市": {
+      "count": 1563,
+      "density": 0.02551,
+      "avg_price": 61384.76,
+      "avg_duration_minutes": 608.61,
+      "avg_profit_per_hour": 5989.71,
+      "bonus": 33.34
+    },
+    "广东省揭阳市揭东区": {
+      "count": 3734,
+      "density": 0.06094,
+      "avg_price": 63394.01,
+      "avg_duration_minutes": 706.74,
+      "avg_profit_per_hour": 5485.75,
+      "bonus": 33.02
+    },
+    "广东省阳江市阳东区": {
+      "count": 1306,
+      "density": 0.02132,
+      "avg_price": 69462.22,
+      "avg_duration_minutes": 664.43,
+      "avg_profit_per_hour": 6198.6,
+      "bonus": 34.17
+    },
+    "广东省汕尾市海丰县": {
+      "count": 1653,
+      "density": 0.02698,
+      "avg_price": 51564.13,
+      "avg_duration_minutes": 542.99,
+      "avg_profit_per_hour": 5722.62,
+      "bonus": 32.03
+    },
+    "广东省东莞市塘厦镇": {
+      "count": 4745,
+      "density": 0.07744,
+      "avg_price": 28848.52,
+      "avg_duration_minutes": 431.42,
+      "avg_profit_per_hour": 4062.19,
+      "bonus": 26.58
+    },
+    "广东省东莞市大岭山镇": {
+      "count": 6165,
+      "density": 0.10062,
+      "avg_price": 32417.69,
+      "avg_duration_minutes": 431.45,
+      "avg_profit_per_hour": 4452.83,
+      "bonus": 30.18
+    },
+    "广东省汕头市潮南区": {
+      "count": 1683,
+      "density": 0.02747,
+      "avg_price": 74447.54,
+      "avg_duration_minutes": 761.84,
+      "avg_profit_per_hour": 5809.08,
+      "bonus": 32.52
+    },
+    "广东省佛山市顺德区": {
+      "count": 22787,
+      "density": 0.37191,
+      "avg_price": 40038.33,
+      "avg_duration_minutes": 470.47,
+      "avg_profit_per_hour": 5095.78,
+      "bonus": 51.48
+    },
+    "广东省东莞市黄江镇": {
+      "count": 2823,
+      "density": 0.04607,
+      "avg_price": 31853.08,
+      "avg_duration_minutes": 435.97,
+      "avg_profit_per_hour": 4407.49,
+      "bonus": 26.34
+    },
+    "广东省惠州市博罗县": {
+      "count": 11701,
+      "density": 0.19097,
+      "avg_price": 42814.26,
+      "avg_duration_minutes": 472.26,
+      "avg_profit_per_hour": 5439.03,
+      "bonus": 41.35
+    },
+    "广东省深圳市南山区": {
+      "count": 1261,
+      "density": 0.02058,
+      "avg_price": 43005.44,
+      "avg_duration_minutes": 463.52,
+      "avg_profit_per_hour": 5360.53,
+      "bonus": 29.69
+    },
+    "广东省江门市恩平市": {
+      "count": 1849,
+      "density": 0.03018,
+      "avg_price": 61788.45,
+      "avg_duration_minutes": 595.47,
+      "avg_profit_per_hour": 6177.07,
+      "bonus": 34.64
+    },
+    "广东省惠州市惠东县": {
+      "count": 2797,
+      "density": 0.04565,
+      "avg_price": 49545.57,
+      "avg_duration_minutes": 518.03,
+      "avg_profit_per_hour": 5744.01,
+      "bonus": 33.37
+    },
+    "广东省东莞市清溪镇": {
+      "count": 3022,
+      "density": 0.04932,
+      "avg_price": 30045.29,
+      "avg_duration_minutes": 426.99,
+      "avg_profit_per_hour": 4270.25,
+      "bonus": 25.83
+    },
+    "广东省珠海市金湾区": {
+      "count": 2803,
+      "density": 0.04575,
+      "avg_price": 52412.71,
+      "avg_duration_minutes": 531.52,
+      "avg_profit_per_hour": 5857.26,
+      "bonus": 33.98
+    },
+    "广东省河源市源城区": {
+      "count": 1575,
+      "density": 0.02571,
+      "avg_price": 48325.36,
+      "avg_duration_minutes": 538.52,
+      "avg_profit_per_hour": 5409.7,
+      "bonus": 30.29
+    },
+    "广东省中山市民众街道": {
+      "count": 936,
+      "density": 0.01528,
+      "avg_price": 40007.98,
+      "avg_duration_minutes": 462.98,
+      "avg_profit_per_hour": 5150.42,
+      "bonus": 28.23
+    },
+    "广东省韶关市翁源县": {
+      "count": 812,
+      "density": 0.01325,
+      "avg_price": 72838.5,
+      "avg_duration_minutes": 618.64,
+      "avg_profit_per_hour": 7086.35,
+      "bonus": 38.33
+    },
+    "广东省江门市新会区": {
+      "count": 4774,
+      "density": 0.07792,
+      "avg_price": 48916.62,
+      "avg_duration_minutes": 516.23,
+      "avg_profit_per_hour": 5657.74,
+      "bonus": 35.05
+    },
+    "广东省韶关市仁化县": {
+      "count": 234,
+      "density": 0.00382,
+      "avg_price": 91985.23,
+      "avg_duration_minutes": 739.82,
+      "avg_profit_per_hour": 7345.12,
+      "bonus": 39.08
+    },
+    "广东省惠州市惠阳区": {
+      "count": 8647,
+      "density": 0.14113,
+      "avg_price": 39409.89,
+      "avg_duration_minutes": 473.2,
+      "avg_profit_per_hour": 4949.48,
+      "bonus": 35.48
+    },
+    "广东省茂名市电白区": {
+      "count": 2306,
+      "density": 0.03764,
+      "avg_price": 79038.74,
+      "avg_duration_minutes": 731.27,
+      "avg_profit_per_hour": 6407.29,
+      "bonus": 36.35
+    },
+    "广东省中山市小榄镇": {
+      "count": 5267,
+      "density": 0.08596,
+      "avg_price": 35406.4,
+      "avg_duration_minutes": 448.26,
+      "avg_profit_per_hour": 4699.47,
+      "bonus": 30.51
+    },
+    "广东省湛江市遂溪县": {
+      "count": 1155,
+      "density": 0.01885,
+      "avg_price": 101596.54,
+      "avg_duration_minutes": 808.81,
+      "avg_profit_per_hour": 7285.31,
+      "bonus": 39.75
+    },
+    "广东省湛江市廉江市": {
+      "count": 1408,
+      "density": 0.02298,
+      "avg_price": 93546.26,
+      "avg_duration_minutes": 815.14,
+      "avg_profit_per_hour": 6702.0,
+      "bonus": 36.94
+    },
+    "广东省广州市花都区": {
+      "count": 10204,
+      "density": 0.16654,
+      "avg_price": 36830.42,
+      "avg_duration_minutes": 445.14,
+      "avg_profit_per_hour": 4844.82,
+      "bonus": 36.6
+    },
+    "广东省东莞市凤岗镇": {
+      "count": 5380,
+      "density": 0.08781,
+      "avg_price": 29115.21,
+      "avg_duration_minutes": 427.39,
+      "avg_profit_per_hour": 4124.67,
+      "bonus": 27.6
+    },
+    "广东省清远市连州市": {
+      "count": 363,
+      "density": 0.00592,
+      "avg_price": 83519.77,
+      "avg_duration_minutes": 700.44,
+      "avg_profit_per_hour": 7101.69,
+      "bonus": 37.93
+    },
+    "广东省中山市五桂山街道": {
+      "count": 198,
+      "density": 0.00323,
+      "avg_price": 47262.04,
+      "avg_duration_minutes": 486.28,
+      "avg_profit_per_hour": 5919.33,
+      "bonus": 31.5
+    },
+    "广东省肇庆市高要区": {
+      "count": 3834,
+      "density": 0.06258,
+      "avg_price": 52308.86,
+      "avg_duration_minutes": 512.94,
+      "avg_profit_per_hour": 6060.67,
+      "bonus": 36.17
+    },
+    "广东省中山市古镇镇": {
+      "count": 1376,
+      "density": 0.02246,
+      "avg_price": 38340.46,
+      "avg_duration_minutes": 462.57,
+      "avg_profit_per_hour": 4939.93,
+      "bonus": 27.59
+    },
+    "广东省广州市南沙区": {
+      "count": 5677,
+      "density": 0.09266,
+      "avg_price": 44202.26,
+      "avg_duration_minutes": 454.9,
+      "avg_profit_per_hour": 5793.3,
+      "bonus": 36.74
+    },
+    "广东省清远市清城区": {
+      "count": 4106,
+      "density": 0.06701,
+      "avg_price": 45912.79,
+      "avg_duration_minutes": 485.45,
+      "avg_profit_per_hour": 5600.82,
+      "bonus": 34.03
+    },
+    "广东省茂名市高州市": {
+      "count": 1486,
+      "density": 0.02425,
+      "avg_price": 78844.13,
+      "avg_duration_minutes": 716.02,
+      "avg_profit_per_hour": 6515.04,
+      "bonus": 36.04
+    },
+    "广东省梅州市平远县": {
+      "count": 203,
+      "density": 0.00331,
+      "avg_price": 85351.9,
+      "avg_duration_minutes": 783.87,
+      "avg_profit_per_hour": 6767.18,
+      "bonus": 35.99
+    },
+    "广东省湛江市徐闻县": {
+      "count": 797,
+      "density": 0.01301,
+      "avg_price": 135251.71,
+      "avg_duration_minutes": 951.26,
+      "avg_profit_per_hour": 8149.64,
+      "bonus": 43.94
+    },
+    "广东省广州市荔湾区": {
+      "count": 1694,
+      "density": 0.02765,
+      "avg_price": 48289.9,
+      "avg_duration_minutes": 512.26,
+      "avg_profit_per_hour": 5445.9,
+      "bonus": 30.61
+    },
+    "广东省江门市开平市": {
+      "count": 2955,
+      "density": 0.04823,
+      "avg_price": 54419.17,
+      "avg_duration_minutes": 534.95,
+      "avg_profit_per_hour": 6097.45,
+      "bonus": 35.41
+    },
+    "广东省韶关市南雄市": {
+      "count": 396,
+      "density": 0.00646,
+      "avg_price": 95647.36,
+      "avg_duration_minutes": 788.07,
+      "avg_profit_per_hour": 7282.37,
+      "bonus": 38.92
+    },
+    "广东省湛江市吴川市": {
+      "count": 663,
+      "density": 0.01082,
+      "avg_price": 87475.56,
+      "avg_duration_minutes": 797.42,
+      "avg_profit_per_hour": 6361.7,
+      "bonus": 34.34
+    },
+    "广东省东莞市寮步镇": {
+      "count": 3370,
+      "density": 0.055,
+      "avg_price": 31854.88,
+      "avg_duration_minutes": 436.85,
+      "avg_profit_per_hour": 4310.76,
+      "bonus": 26.42
+    },
+    "广东省潮州市饶平县": {
+      "count": 887,
+      "density": 0.01448,
+      "avg_price": 79088.06,
+      "avg_duration_minutes": 753.36,
+      "avg_profit_per_hour": 6103.57,
+      "bonus": 33.22
+    },
+    "广东省茂名市茂南区": {
+      "count": 1550,
+      "density": 0.0253,
+      "avg_price": 71650.91,
+      "avg_duration_minutes": 681.38,
+      "avg_profit_per_hour": 6123.71,
+      "bonus": 34.04
+    },
+    "广东省江门市台山市": {
+      "count": 2611,
+      "density": 0.04261,
+      "avg_price": 68748.72,
+      "avg_duration_minutes": 583.27,
+      "avg_profit_per_hour": 6886.84,
+      "bonus": 39.22
+    },
+    "广东省韶关市浈江区": {
+      "count": 619,
+      "density": 0.0101,
+      "avg_price": 60206.82,
+      "avg_duration_minutes": 606.12,
+      "avg_profit_per_hour": 5816.4,
+      "bonus": 31.41
+    },
+    "广东省肇庆市四会市": {
+      "count": 5898,
+      "density": 0.09626,
+      "avg_price": 50914.28,
+      "avg_duration_minutes": 498.42,
+      "avg_profit_per_hour": 6042.79,
+      "bonus": 38.29
+    },
+    "广东省中山市南区街道": {
+      "count": 562,
+      "density": 0.00917,
+      "avg_price": 34736.45,
+      "avg_duration_minutes": 442.0,
+      "avg_profit_per_hour": 4713.69,
+      "bonus": 25.52
+    },
+    "广东省东莞市沙田镇": {
+      "count": 2353,
+      "density": 0.0384,
+      "avg_price": 35746.49,
+      "avg_duration_minutes": 434.18,
+      "avg_profit_per_hour": 4968.59,
+      "bonus": 28.8
+    },
+    "广东省佛山市禅城区": {
+      "count": 7397,
+      "density": 0.12073,
+      "avg_price": 43615.44,
+      "avg_duration_minutes": 500.43,
+      "avg_profit_per_hour": 5151.81,
+      "bonus": 35.2
+    },
+    "广东省东莞市南城街道": {
+      "count": 949,
+      "density": 0.01549,
+      "avg_price": 34010.47,
+      "avg_duration_minutes": 443.56,
+      "avg_profit_per_hour": 4508.94,
+      "bonus": 24.86
+    },
+    "广东省广州市海珠区": {
+      "count": 855,
+      "density": 0.01395,
+      "avg_price": 38926.14,
+      "avg_duration_minutes": 454.04,
+      "avg_profit_per_hour": 4979.46,
+      "bonus": 27.24
+    },
+    "广东省茂名市化州市": {
+      "count": 1190,
+      "density": 0.01942,
+      "avg_price": 87294.69,
+      "avg_duration_minutes": 768.86,
+      "avg_profit_per_hour": 6676.76,
+      "bonus": 36.57
+    },
+    "广东省中山市沙溪镇": {
+      "count": 1140,
+      "density": 0.01861,
+      "avg_price": 37308.74,
+      "avg_duration_minutes": 483.02,
+      "avg_profit_per_hour": 4585.01,
+      "bonus": 25.46
+    },
+    "广东省河源市东源县": {
+      "count": 819,
+      "density": 0.01337,
+      "avg_price": 66887.67,
+      "avg_duration_minutes": 606.43,
+      "avg_profit_per_hour": 6630.26,
+      "bonus": 35.93
+    },
+    "广东省东莞市虎门镇": {
+      "count": 3849,
+      "density": 0.06282,
+      "avg_price": 32928.32,
+      "avg_duration_minutes": 448.11,
+      "avg_profit_per_hour": 4348.6,
+      "bonus": 27.13
+    },
+    "广东省梅州市丰顺县": {
+      "count": 753,
+      "density": 0.01229,
+      "avg_price": 72967.27,
+      "avg_duration_minutes": 691.63,
+      "avg_profit_per_hour": 6390.66,
+      "bonus": 34.59
+    },
+    "广东省云浮市新兴县": {
+      "count": 1579,
+      "density": 0.02577,
+      "avg_price": 63197.91,
+      "avg_duration_minutes": 577.18,
+      "avg_profit_per_hour": 6569.15,
+      "bonus": 36.42
+    },
+    "广东省湛江市赤坎区": {
+      "count": 665,
+      "density": 0.01085,
+      "avg_price": 54602.7,
+      "avg_duration_minutes": 592.75,
+      "avg_profit_per_hour": 5262.26,
+      "bonus": 28.53
+    },
+    "广东省河源市连平县": {
+      "count": 676,
+      "density": 0.01103,
+      "avg_price": 65519.36,
+      "avg_duration_minutes": 615.72,
+      "avg_profit_per_hour": 6453.05,
+      "bonus": 34.84
+    },
+    "广东省东莞市东城街道": {
+      "count": 2421,
+      "density": 0.03951,
+      "avg_price": 38255.44,
+      "avg_duration_minutes": 466.02,
+      "avg_profit_per_hour": 4737.37,
+      "bonus": 27.65
+    },
+    "广东省河源市紫金县": {
+      "count": 772,
+      "density": 0.0126,
+      "avg_price": 57244.93,
+      "avg_duration_minutes": 556.09,
+      "avg_profit_per_hour": 6242.74,
+      "bonus": 33.83
+    },
+    "广东省东莞市中堂镇": {
+      "count": 3315,
+      "density": 0.0541,
+      "avg_price": 37192.35,
+      "avg_duration_minutes": 455.27,
+      "avg_profit_per_hour": 4889.9,
+      "bonus": 29.42
+    },
+    "广东省江门市鹤山市": {
+      "count": 4114,
+      "density": 0.06715,
+      "avg_price": 44922.76,
+      "avg_duration_minutes": 480.25,
+      "avg_profit_per_hour": 5611.68,
+      "bonus": 34.09
+    },
+    "广东省韶关市始兴县": {
+      "count": 263,
+      "density": 0.00429,
+      "avg_price": 87915.16,
+      "avg_duration_minutes": 710.89,
+      "avg_profit_per_hour": 7445.54,
+      "bonus": 39.64
+    },
+    "广东省东莞市大朗镇": {
+      "count": 9050,
+      "density": 0.14771,
+      "avg_price": 27013.08,
+      "avg_duration_minutes": 408.29,
+      "avg_profit_per_hour": 4095.78,
+      "bonus": 31.4
+    },
+    "广东省茂名市信宜市": {
+      "count": 341,
+      "density": 0.00557,
+      "avg_price": 79651.1,
+      "avg_duration_minutes": 720.78,
+      "avg_profit_per_hour": 6503.09,
+      "bonus": 34.74
+    },
+    "广东省肇庆市怀集县": {
+      "count": 712,
+      "density": 0.01162,
+      "avg_price": 70341.16,
+      "avg_duration_minutes": 628.86,
+      "avg_profit_per_hour": 6634.19,
+      "bonus": 35.83
+    },
+    "广东省梅州市梅县区": {
+      "count": 692,
+      "density": 0.01129,
+      "avg_price": 76752.15,
+      "avg_duration_minutes": 713.46,
+      "avg_profit_per_hour": 6496.32,
+      "bonus": 35.08
+    },
+    "广东省东莞市望牛墩镇": {
+      "count": 1347,
+      "density": 0.02198,
+      "avg_price": 33154.5,
+      "avg_duration_minutes": 430.35,
+      "avg_profit_per_hour": 4604.46,
+      "bonus": 25.79
+    },
+    "广东省梅州市兴宁市": {
+      "count": 860,
+      "density": 0.01404,
+      "avg_price": 73219.57,
+      "avg_duration_minutes": 659.47,
+      "avg_profit_per_hour": 6702.86,
+      "bonus": 36.36
+    },
+    "广东省东莞市茶山镇": {
+      "count": 3240,
+      "density": 0.05288,
+      "avg_price": 32503.45,
+      "avg_duration_minutes": 438.2,
+      "avg_profit_per_hour": 4441.6,
+      "bonus": 26.97
+    },
+    "广东省中山市黄圃镇": {
+      "count": 1247,
+      "density": 0.02035,
+      "avg_price": 39078.83,
+      "avg_duration_minutes": 473.83,
+      "avg_profit_per_hour": 4994.24,
+      "bonus": 27.74
+    },
+    "广东省汕头市金平区": {
+      "count": 2386,
+      "density": 0.03894,
+      "avg_price": 52570.58,
+      "avg_duration_minutes": 618.46,
+      "avg_profit_per_hour": 5068.8,
+      "bonus": 29.36
+    },
+    "广东省中山市石岐街道": {
+      "count": 88,
+      "density": 0.00144,
+      "avg_price": 40039.33,
+      "avg_duration_minutes": 460.03,
+      "avg_profit_per_hour": 5261.14,
+      "bonus": 27.9
+    },
+    "广东省韶关市武江区": {
+      "count": 504,
+      "density": 0.00823,
+      "avg_price": 68018.32,
+      "avg_duration_minutes": 654.52,
+      "avg_profit_per_hour": 6217.93,
+      "bonus": 33.41
+    },
+    "广东省东莞市厚街镇": {
+      "count": 5890,
+      "density": 0.09613,
+      "avg_price": 28563.45,
+      "avg_duration_minutes": 417.87,
+      "avg_profit_per_hour": 4172.82,
+      "bonus": 28.4
+    },
+    "广东省肇庆市封开县": {
+      "count": 469,
+      "density": 0.00765,
+      "avg_price": 80950.48,
+      "avg_duration_minutes": 665.54,
+      "avg_profit_per_hour": 7372.74,
+      "bonus": 39.48
+    },
+    "广东省河源市龙川县": {
+      "count": 465,
+      "density": 0.00759,
+      "avg_price": 70889.26,
+      "avg_duration_minutes": 659.95,
+      "avg_profit_per_hour": 6418.65,
+      "bonus": 34.43
+    },
+    "广东省湛江市麻章区": {
+      "count": 981,
+      "density": 0.01601,
+      "avg_price": 90470.04,
+      "avg_duration_minutes": 754.25,
+      "avg_profit_per_hour": 6840.82,
+      "bonus": 37.22
+    },
+    "广东省揭阳市榕城区": {
+      "count": 3191,
+      "density": 0.05208,
+      "avg_price": 61410.33,
+      "avg_duration_minutes": 723.96,
+      "avg_profit_per_hour": 5130.1,
+      "bonus": 30.55
+    },
+    "广东省东莞市洪梅镇": {
+      "count": 823,
+      "density": 0.01343,
+      "avg_price": 39078.66,
+      "avg_duration_minutes": 435.86,
+      "avg_profit_per_hour": 5320.57,
+      "bonus": 29.01
+    },
+    "广东省汕头市龙湖区": {
+      "count": 1225,
+      "density": 0.01999,
+      "avg_price": 77170.11,
+      "avg_duration_minutes": 833.69,
+      "avg_profit_per_hour": 5552.72,
+      "bonus": 30.67
+    },
+    "广东省广州市天河区": {
+      "count": 1679,
+      "density": 0.0274,
+      "avg_price": 42891.37,
+      "avg_duration_minutes": 469.75,
+      "avg_profit_per_hour": 5363.87,
+      "bonus": 30.16
+    },
+    "广东省深圳市光明区": {
+      "count": 2471,
+      "density": 0.04033,
+      "avg_price": 29446.65,
+      "avg_duration_minutes": 426.28,
+      "avg_profit_per_hour": 4124.25,
+      "bonus": 24.46
+    },
+    "广东省汕头市潮阳区": {
+      "count": 2259,
+      "density": 0.03687,
+      "avg_price": 74546.1,
+      "avg_duration_minutes": 788.54,
+      "avg_profit_per_hour": 5647.77,
+      "bonus": 32.29
+    },
+    "广东省肇庆市鼎湖区": {
+      "count": 1219,
+      "density": 0.0199,
+      "avg_price": 50807.5,
+      "avg_duration_minutes": 491.04,
+      "avg_profit_per_hour": 6120.67,
+      "bonus": 33.67
+    },
+    "广东省汕头市澄海区": {
+      "count": 2321,
+      "density": 0.03788,
+      "avg_price": 67169.56,
+      "avg_duration_minutes": 820.94,
+      "avg_profit_per_hour": 4947.32,
+      "bonus": 28.65
+    },
+    "广东省中山市中山港街道": {
+      "count": 1148,
+      "density": 0.01874,
+      "avg_price": 38052.46,
+      "avg_duration_minutes": 447.0,
+      "avg_profit_per_hour": 5133.83,
+      "bonus": 28.37
+    },
+    "广东省中山市南头镇": {
+      "count": 950,
+      "density": 0.01551,
+      "avg_price": 40028.13,
+      "avg_duration_minutes": 462.65,
+      "avg_profit_per_hour": 5165.66,
+      "bonus": 28.33
+    },
+    "广东省梅州市五华县": {
+      "count": 375,
+      "density": 0.00612,
+      "avg_price": 65842.83,
+      "avg_duration_minutes": 636.37,
+      "avg_profit_per_hour": 6251.28,
+      "bonus": 33.45
+    },
+    "广东省湛江市雷州市": {
+      "count": 1301,
+      "density": 0.02123,
+      "avg_price": 113281.46,
+      "avg_duration_minutes": 876.92,
+      "avg_profit_per_hour": 7401.4,
+      "bonus": 40.52
+    },
+    "广东省东莞市道滘镇": {
+      "count": 3008,
+      "density": 0.04909,
+      "avg_price": 30486.33,
+      "avg_duration_minutes": 417.11,
+      "avg_profit_per_hour": 4466.81,
+      "bonus": 26.85
+    },
+    "广东省汕头市濠江区": {
+      "count": 388,
+      "density": 0.00633,
+      "avg_price": 74943.32,
+      "avg_duration_minutes": 745.15,
+      "avg_profit_per_hour": 6010.25,
+      "bonus": 32.19
+    },
+    "广东省中山市板芙镇": {
+      "count": 516,
+      "density": 0.00842,
+      "avg_price": 47446.2,
+      "avg_duration_minutes": 515.05,
+      "avg_profit_per_hour": 5353.39,
+      "bonus": 28.85
+    },
+    "广东省肇庆市广宁县": {
+      "count": 714,
+      "density": 0.01165,
+      "avg_price": 66209.84,
+      "avg_duration_minutes": 577.46,
+      "avg_profit_per_hour": 6815.65,
+      "bonus": 36.8
+    },
+    "广东省江门市蓬江区": {
+      "count": 3476,
+      "density": 0.05673,
+      "avg_price": 41627.05,
+      "avg_duration_minutes": 474.87,
+      "avg_profit_per_hour": 5202.09,
+      "bonus": 31.24
+    },
+    "广东省阳江市阳春市": {
+      "count": 1046,
+      "density": 0.01707,
+      "avg_price": 67037.86,
+      "avg_duration_minutes": 636.24,
+      "avg_profit_per_hour": 6354.04,
+      "bonus": 34.71
+    },
+    "广东省汕尾市城区": {
+      "count": 484,
+      "density": 0.0079,
+      "avg_price": 60100.7,
+      "avg_duration_minutes": 590.63,
+      "avg_profit_per_hour": 6003.39,
+      "bonus": 32.25
+    },
+    "广东省东莞市": {
+      "count": 947,
+      "density": 0.01546,
+      "avg_price": 38146.77,
+      "avg_duration_minutes": 471.71,
+      "avg_profit_per_hour": 5000.38,
+      "bonus": 27.45
+    },
+    "广东省清远市连南瑶族自治县": {
+      "count": 68,
+      "density": 0.00111,
+      "avg_price": 72832.04,
+      "avg_duration_minutes": 648.0,
+      "avg_profit_per_hour": 6847.4,
+      "bonus": 36.27
+    },
+    "广东省东莞市樟木头镇": {
+      "count": 3262,
+      "density": 0.05324,
+      "avg_price": 35478.47,
+      "avg_duration_minutes": 470.55,
+      "avg_profit_per_hour": 4555.52,
+      "bonus": 27.59
+    },
+    "广东省肇庆市端州区": {
+      "count": 606,
+      "density": 0.00989,
+      "avg_price": 50039.36,
+      "avg_duration_minutes": 523.43,
+      "avg_profit_per_hour": 5670.12,
+      "bonus": 30.62
+    },
+    "广东省揭阳市揭西县": {
+      "count": 1170,
+      "density": 0.0191,
+      "avg_price": 62749.3,
+      "avg_duration_minutes": 685.71,
+      "avg_profit_per_hour": 5470.93,
+      "bonus": 30.18
+    },
+    "广东省东莞市石龙镇": {
+      "count": 190,
+      "density": 0.0031,
+      "avg_price": 38466.9,
+      "avg_duration_minutes": 467.08,
+      "avg_profit_per_hour": 4761.95,
+      "bonus": 25.38
+    },
+    "广东省佛山市高明区": {
+      "count": 4627,
+      "density": 0.07552,
+      "avg_price": 50798.82,
+      "avg_duration_minutes": 496.77,
+      "avg_profit_per_hour": 6111.78,
+      "bonus": 37.29
+    },
+    "广东省中山市三乡镇": {
+      "count": 955,
+      "density": 0.01559,
+      "avg_price": 37668.39,
+      "avg_duration_minutes": 466.52,
+      "avg_profit_per_hour": 4748.03,
+      "bonus": 26.13
+    },
+    "广东省肇庆市德庆县": {
+      "count": 568,
+      "density": 0.00927,
+      "avg_price": 69809.86,
+      "avg_duration_minutes": 616.57,
+      "avg_profit_per_hour": 6747.86,
+      "bonus": 36.28
+    },
+    "广东省清远市清新区": {
+      "count": 1790,
+      "density": 0.02921,
+      "avg_price": 56987.29,
+      "avg_duration_minutes": 524.74,
+      "avg_profit_per_hour": 6479.99,
+      "bonus": 36.18
+    },
+    "广东省中山市横栏镇": {
+      "count": 1777,
+      "density": 0.029,
+      "avg_price": 45822.69,
+      "avg_duration_minutes": 491.89,
+      "avg_profit_per_hour": 5444.05,
+      "bonus": 30.69
+    },
+    "广东省东莞市长安镇": {
+      "count": 2345,
+      "density": 0.03827,
+      "avg_price": 28623.67,
+      "avg_duration_minutes": 431.4,
+      "avg_profit_per_hour": 4002.26,
+      "bonus": 23.68
+    },
+    "广东省云浮市云安区": {
+      "count": 458,
+      "density": 0.00748,
+      "avg_price": 73139.95,
+      "avg_duration_minutes": 613.96,
+      "avg_profit_per_hour": 7137.21,
+      "bonus": 38.22
+    },
+    "广东省深圳市坪山区": {
+      "count": 1600,
+      "density": 0.02611,
+      "avg_price": 33169.39,
+      "avg_duration_minutes": 447.54,
+      "avg_profit_per_hour": 4356.49,
+      "bonus": 24.75
+    },
+    "广东省东莞市石排镇": {
+      "count": 1986,
+      "density": 0.03241,
+      "avg_price": 30850.11,
+      "avg_duration_minutes": 446.11,
+      "avg_profit_per_hour": 4138.14,
+      "bonus": 24.01
+    },
+    "广东省东莞市万江街道": {
+      "count": 3494,
+      "density": 0.05703,
+      "avg_price": 32776.6,
+      "avg_duration_minutes": 443.91,
+      "avg_profit_per_hour": 4415.72,
+      "bonus": 27.1
+    },
+    "广东省中山市东凤镇": {
+      "count": 2098,
+      "density": 0.03424,
+      "avg_price": 32240.39,
+      "avg_duration_minutes": 435.92,
+      "avg_profit_per_hour": 4441.31,
+      "bonus": 25.74
+    },
+    "广东省清远市阳山县": {
+      "count": 245,
+      "density": 0.004,
+      "avg_price": 74314.28,
+      "avg_duration_minutes": 621.28,
+      "avg_profit_per_hour": 7208.01,
+      "bonus": 38.36
+    },
+    "广东省中山市阜沙镇": {
+      "count": 563,
+      "density": 0.00919,
+      "avg_price": 40998.21,
+      "avg_duration_minutes": 446.85,
+      "avg_profit_per_hour": 5501.12,
+      "bonus": 29.68
+    },
+    "广东省潮州市湘桥区": {
+      "count": 598,
+      "density": 0.00976,
+      "avg_price": 66810.17,
+      "avg_duration_minutes": 800.74,
+      "avg_profit_per_hour": 5059.53,
+      "bonus": 27.39
+    },
+    "广东省广州市从化区": {
+      "count": 2943,
+      "density": 0.04803,
+      "avg_price": 45778.68,
+      "avg_duration_minutes": 476.42,
+      "avg_profit_per_hour": 5660.77,
+      "bonus": 33.09
+    },
+    "广东省东莞市横沥镇": {
+      "count": 1510,
+      "density": 0.02465,
+      "avg_price": 31764.76,
+      "avg_duration_minutes": 444.75,
+      "avg_profit_per_hour": 4257.74,
+      "bonus": 24.13
+    },
+    "广东省韶关市新丰县": {
+      "count": 405,
+      "density": 0.00661,
+      "avg_price": 71429.65,
+      "avg_duration_minutes": 603.79,
+      "avg_profit_per_hour": 7161.57,
+      "bonus": 38.29
+    },
+    "广东省中山市三角镇": {
+      "count": 1014,
+      "density": 0.01655,
+      "avg_price": 33021.43,
+      "avg_duration_minutes": 417.36,
+      "avg_profit_per_hour": 4811.18,
+      "bonus": 26.52
+    },
+    "广东省湛江市霞山区": {
+      "count": 726,
+      "density": 0.01185,
+      "avg_price": 110003.69,
+      "avg_duration_minutes": 875.55,
+      "avg_profit_per_hour": 7131.65,
+      "bonus": 38.48
+    },
+    "广东省中山市西区街道": {
+      "count": 342,
+      "density": 0.00558,
+      "avg_price": 39653.82,
+      "avg_duration_minutes": 471.09,
+      "avg_profit_per_hour": 5002.6,
+      "bonus": 26.81
+    },
+    "广东省韶关市曲江区": {
+      "count": 706,
+      "density": 0.01152,
+      "avg_price": 79311.54,
+      "avg_duration_minutes": 685.08,
+      "avg_profit_per_hour": 6969.66,
+      "bonus": 37.6
+    },
+    "广东省河源市和平县": {
+      "count": 164,
+      "density": 0.00268,
+      "avg_price": 74025.7,
+      "avg_duration_minutes": 654.94,
+      "avg_profit_per_hour": 6920.62,
+      "bonus": 36.76
+    },
+    "广东省汕尾市陆河县": {
+      "count": 295,
+      "density": 0.00481,
+      "avg_price": 64050.93,
+      "avg_duration_minutes": 652.94,
+      "avg_profit_per_hour": 5848.77,
+      "bonus": 31.23
+    },
+    "广东省云浮市云城区": {
+      "count": 1061,
+      "density": 0.01732,
+      "avg_price": 64934.72,
+      "avg_duration_minutes": 608.59,
+      "avg_profit_per_hour": 6390.88,
+      "bonus": 34.92
+    },
+    "广东省中山市南朗街道": {
+      "count": 842,
+      "density": 0.01374,
+      "avg_price": 41284.42,
+      "avg_duration_minutes": 450.08,
+      "avg_profit_per_hour": 5411.08,
+      "bonus": 29.51
+    },
+    "广东省东莞市东坑镇": {
+      "count": 1014,
+      "density": 0.01655,
+      "avg_price": 29571.93,
+      "avg_duration_minutes": 427.2,
+      "avg_profit_per_hour": 4191.19,
+      "bonus": 23.25
+    },
+    "广东省湛江市坡头区": {
+      "count": 418,
+      "density": 0.00682,
+      "avg_price": 96871.11,
+      "avg_duration_minutes": 817.51,
+      "avg_profit_per_hour": 6812.75,
+      "bonus": 36.46
+    },
+    "广东省清远市佛冈县": {
+      "count": 835,
+      "density": 0.01363,
+      "avg_price": 50423.48,
+      "avg_duration_minutes": 490.5,
+      "avg_profit_per_hour": 6099.58,
+      "bonus": 33.14
+    },
+    "广东省中山市坦洲镇": {
+      "count": 762,
+      "density": 0.01244,
+      "avg_price": 42406.64,
+      "avg_duration_minutes": 486.06,
+      "avg_profit_per_hour": 5173.95,
+      "bonus": 28.17
+    },
+    "广东省梅州市大埔县": {
+      "count": 111,
+      "density": 0.00181,
+      "avg_price": 92193.71,
+      "avg_duration_minutes": 791.75,
+      "avg_profit_per_hour": 7015.19,
+      "bonus": 37.2
+    },
+    "广东省云浮市郁南县": {
+      "count": 358,
+      "density": 0.00584,
+      "avg_price": 77822.1,
+      "avg_duration_minutes": 661.72,
+      "avg_profit_per_hour": 7034.9,
+      "bonus": 37.57
+    },
+    "广东省中山市港口镇": {
+      "count": 453,
+      "density": 0.00739,
+      "avg_price": 39957.88,
+      "avg_duration_minutes": 460.15,
+      "avg_profit_per_hour": 5165.25,
+      "bonus": 27.79
+    },
+    "广东省阳江市阳西县": {
+      "count": 994,
+      "density": 0.01622,
+      "avg_price": 85620.63,
+      "avg_duration_minutes": 724.57,
+      "avg_profit_per_hour": 6975.14,
+      "bonus": 37.94
+    },
+    "广东省韶关市乐昌市": {
+      "count": 524,
+      "density": 0.00855,
+      "avg_price": 89383.68,
+      "avg_duration_minutes": 753.46,
+      "avg_profit_per_hour": 7067.08,
+      "bonus": 37.92
+    },
+    "广东省云浮市罗定市": {
+      "count": 624,
+      "density": 0.01018,
+      "avg_price": 68643.87,
+      "avg_duration_minutes": 654.05,
+      "avg_profit_per_hour": 6226.04,
+      "bonus": 33.58
+    },
+    "广东省东莞市企石镇": {
+      "count": 1740,
+      "density": 0.0284,
+      "avg_price": 30660.85,
+      "avg_duration_minutes": 434.11,
+      "avg_profit_per_hour": 4277.13,
+      "bonus": 24.48
+    },
+    "广东省东莞市石碣镇": {
+      "count": 1156,
+      "density": 0.01887,
+      "avg_price": 31648.87,
+      "avg_duration_minutes": 438.73,
+      "avg_profit_per_hour": 4290.55,
+      "bonus": 23.92
+    },
+    "广东省中山市神湾镇": {
+      "count": 340,
+      "density": 0.00555,
+      "avg_price": 44086.71,
+      "avg_duration_minutes": 481.19,
+      "avg_profit_per_hour": 5441.5,
+      "bonus": 29.13
+    },
+    "广东省梅州市梅江区": {
+      "count": 532,
+      "density": 0.00868,
+      "avg_price": 66644.94,
+      "avg_duration_minutes": 664.18,
+      "avg_profit_per_hour": 5868.68,
+      "bonus": 31.59
+    },
+    "广东省中山市": {
+      "count": 218,
+      "density": 0.00356,
+      "avg_price": 44759.92,
+      "avg_duration_minutes": 518.76,
+      "avg_profit_per_hour": 5225.37,
+      "bonus": 27.86
+    },
+    "广东省揭阳市惠来县": {
+      "count": 596,
+      "density": 0.00973,
+      "avg_price": 68674.16,
+      "avg_duration_minutes": 648.51,
+      "avg_profit_per_hour": 6356.08,
+      "bonus": 34.24
+    },
+    "广东省韶关市乳源瑶族自治县": {
+      "count": 161,
+      "density": 0.00263,
+      "avg_price": 73203.14,
+      "avg_duration_minutes": 645.37,
+      "avg_profit_per_hour": 6744.12,
+      "bonus": 35.82
+    },
+    "广东省广州市越秀区": {
+      "count": 275,
+      "density": 0.00449,
+      "avg_price": 38485.19,
+      "avg_duration_minutes": 439.4,
+      "avg_profit_per_hour": 5098.17,
+      "bonus": 27.24
+    },
+    "广东省深圳市罗湖区": {
+      "count": 284,
+      "density": 0.00464,
+      "avg_price": 41761.7,
+      "avg_duration_minutes": 483.35,
+      "avg_profit_per_hour": 5116.34,
+      "bonus": 27.35
+    },
+    "广东省梅州市蕉岭县": {
+      "count": 186,
+      "density": 0.00304,
+      "avg_price": 79976.81,
+      "avg_duration_minutes": 732.01,
+      "avg_profit_per_hour": 6520.84,
+      "bonus": 34.67
+    },
+    "广东省深圳市盐田区": {
+      "count": 273,
+      "density": 0.00446,
+      "avg_price": 45301.95,
+      "avg_duration_minutes": 457.67,
+      "avg_profit_per_hour": 5878.34,
+      "bonus": 31.37
+    },
+    "广东省中山市东区街道": {
+      "count": 103,
+      "density": 0.00168,
+      "avg_price": 34881.37,
+      "avg_duration_minutes": 453.46,
+      "avg_profit_per_hour": 4609.34,
+      "bonus": 24.47
+    },
+    "广东省东莞市莞城街道": {
+      "count": 71,
+      "density": 0.00116,
+      "avg_price": 32556.97,
+      "avg_duration_minutes": 415.27,
+      "avg_profit_per_hour": 4755.04,
+      "bonus": 25.21
+    },
+    "广东省东莞市虎门港管委会": {
+      "count": 18,
+      "density": 0.00029,
+      "avg_price": 47357.31,
+      "avg_duration_minutes": 418.83,
+      "avg_profit_per_hour": 6862.36,
+      "bonus": 36.29
+    },
+    "广东省清远市连山壮族瑶族自治县": {
+      "count": 99,
+      "density": 0.00162,
+      "avg_price": 79302.75,
+      "avg_duration_minutes": 680.24,
+      "avg_profit_per_hour": 7054.18,
+      "bonus": 37.39
+    },
+    "广东省东莞市松山湖管委会": {
+      "count": 73,
+      "density": 0.00119,
+      "avg_price": 28827.34,
+      "avg_duration_minutes": 406.42,
+      "avg_profit_per_hour": 4218.31,
+      "bonus": 22.38
+    },
+    "广东省东莞市东莞生态园": {
+      "count": 8,
+      "density": 0.00013,
+      "avg_price": 24101.61,
+      "avg_duration_minutes": 292.75,
+      "avg_profit_per_hour": 5104.54,
+      "bonus": 26.99
+    },
+    "广东省汕头市南澳县": {
+      "count": 25,
+      "density": 0.00041,
+      "avg_price": 69889.83,
+      "avg_duration_minutes": 650.6,
+      "avg_profit_per_hour": 6202.67,
+      "bonus": 32.81
+    },
+    "广东省惠州市大亚湾经济开发区": {
+      "count": 4,
+      "density": 7e-05,
+      "avg_price": 19669.07,
+      "avg_duration_minutes": 356.75,
+      "avg_profit_per_hour": 3355.94,
+      "bonus": 17.74
+    },
+    "广东省惠州市仲恺高新区": {
+      "count": 3,
+      "density": 5e-05,
+      "avg_price": 14471.34,
+      "avg_duration_minutes": 422.0,
+      "avg_profit_per_hour": 2053.69,
+      "bonus": 10.86
+    },
+    "广东省湛江市开发区": {
+      "count": 1,
+      "density": 2e-05,
+      "avg_price": 181911.21,
+      "avg_duration_minutes": 949.0,
+      "avg_profit_per_hour": 11501.24,
+      "bonus": 54.0
+    }
+  },
+  "destination_prior": {
+    "广东省东莞市清溪镇": {
+      "count": 3248,
+      "density": 0.06922,
+      "avg_price": 36150.38,
+      "avg_duration_minutes": 448.45,
+      "avg_profit_per_hour": 4800.13,
+      "bonus": 44.91,
+      "opportunity_value": 0.17305
+    },
+    "广东省湛江市雷州市": {
+      "count": 1537,
+      "density": 0.03276,
+      "avg_price": 75108.32,
+      "avg_duration_minutes": 834.16,
+      "avg_profit_per_hour": 5535.19,
+      "bonus": 47.13,
+      "opportunity_value": 0.0819
+    },
+    "广东省东莞市沙田镇": {
+      "count": 1883,
+      "density": 0.04013,
+      "avg_price": 34690.91,
+      "avg_duration_minutes": 421.76,
+      "avg_profit_per_hour": 4994.15,
+      "bonus": 43.57,
+      "opportunity_value": 0.10032
+    },
+    "广东省广州市白云区": {
+      "count": 46923,
+      "density": 1.0,
+      "avg_price": 30750.41,
+      "avg_duration_minutes": 423.25,
+      "avg_profit_per_hour": 4331.14,
+      "bonus": 133.34,
+      "opportunity_value": 2.5
+    },
+    "广东省深圳市宝安区": {
+      "count": 16509,
+      "density": 0.35183,
+      "avg_price": 36861.8,
+      "avg_duration_minutes": 443.53,
+      "avg_profit_per_hour": 4998.25,
+      "bonus": 74.46,
+      "opportunity_value": 0.87957
+    },
+    "广东省佛山市南海区": {
+      "count": 27674,
+      "density": 0.58977,
+      "avg_price": 34743.76,
+      "avg_duration_minutes": 446.05,
+      "avg_profit_per_hour": 4618.52,
+      "bonus": 95.01,
+      "opportunity_value": 1.47443
+    },
+    "广东省深圳市罗湖区": {
+      "count": 1330,
+      "density": 0.02834,
+      "avg_price": 55866.33,
+      "avg_duration_minutes": 515.94,
+      "avg_profit_per_hour": 6353.6,
+      "bonus": 53.18,
+      "opportunity_value": 0.07085
+    },
+    "广东省东莞市茶山镇": {
+      "count": 1704,
+      "density": 0.03631,
+      "avg_price": 34404.91,
+      "avg_duration_minutes": 436.0,
+      "avg_profit_per_hour": 4677.9,
+      "bonus": 40.68,
+      "opportunity_value": 0.09078
+    },
+    "广东省中山市小榄镇": {
+      "count": 5091,
+      "density": 0.1085,
+      "avg_price": 36258.06,
+      "avg_duration_minutes": 460.28,
+      "avg_profit_per_hour": 4687.88,
+      "bonus": 47.91,
+      "opportunity_value": 0.27125
+    },
+    "广东省河源市紫金县": {
+      "count": 1263,
+      "density": 0.02692,
+      "avg_price": 63846.78,
+      "avg_duration_minutes": 582.39,
+      "avg_profit_per_hour": 6606.32,
+      "bonus": 55.04,
+      "opportunity_value": 0.0673
+    },
+    "广东省汕头市濠江区": {
+      "count": 527,
+      "density": 0.01123,
+      "avg_price": 93892.42,
+      "avg_duration_minutes": 865.31,
+      "avg_profit_per_hour": 6280.41,
+      "bonus": 50.91,
+      "opportunity_value": 0.02808
+    },
+    "广东省惠州市惠东县": {
+      "count": 3948,
+      "density": 0.08414,
+      "avg_price": 55947.91,
+      "avg_duration_minutes": 548.62,
+      "avg_profit_per_hour": 5960.22,
+      "bonus": 55.59,
+      "opportunity_value": 0.21035
+    },
+    "广东省汕头市龙湖区": {
+      "count": 1527,
+      "density": 0.03254,
+      "avg_price": 84470.45,
+      "avg_duration_minutes": 856.03,
+      "avg_profit_per_hour": 5826.57,
+      "bonus": 49.42,
+      "opportunity_value": 0.08135
+    },
+    "广东省佛山市顺德区": {
+      "count": 17949,
+      "density": 0.38252,
+      "avg_price": 31898.8,
+      "avg_duration_minutes": 422.0,
+      "avg_profit_per_hour": 4571.81,
+      "bonus": 74.12,
+      "opportunity_value": 0.9563
+    },
+    "广东省惠州市惠阳区": {
+      "count": 9138,
+      "density": 0.19474,
+      "avg_price": 42514.77,
+      "avg_duration_minutes": 479.24,
+      "avg_profit_per_hour": 5270.49,
+      "bonus": 61.07,
+      "opportunity_value": 0.48685
+    },
+    "广东省东莞市塘厦镇": {
+      "count": 4680,
+      "density": 0.09974,
+      "avg_price": 35751.51,
+      "avg_duration_minutes": 451.89,
+      "avg_profit_per_hour": 4683.99,
+      "bonus": 47.01,
+      "opportunity_value": 0.24935
+    },
+    "广东省广州市花都区": {
+      "count": 11672,
+      "density": 0.24875,
+      "avg_price": 36214.78,
+      "avg_duration_minutes": 453.34,
+      "avg_profit_per_hour": 4811.66,
+      "bonus": 62.78,
+      "opportunity_value": 0.62187
+    },
+    "广东省汕头市潮南区": {
+      "count": 1844,
+      "density": 0.0393,
+      "avg_price": 69690.3,
+      "avg_duration_minutes": 750.43,
+      "avg_profit_per_hour": 5506.89,
+      "bonus": 47.55,
+      "opportunity_value": 0.09825
+    },
+    "广东省广州市越秀区": {
+      "count": 1004,
+      "density": 0.0214,
+      "avg_price": 33100.49,
+      "avg_duration_minutes": 412.73,
+      "avg_profit_per_hour": 4849.06,
+      "bonus": 40.57,
+      "opportunity_value": 0.0535
+    },
+    "广东省惠州市博罗县": {
+      "count": 8453,
+      "density": 0.18015,
+      "avg_price": 40288.06,
+      "avg_duration_minutes": 460.72,
+      "avg_profit_per_hour": 5189.07,
+      "bonus": 58.98,
+      "opportunity_value": 0.45038
+    },
+    "广东省深圳市龙岗区": {
+      "count": 19606,
+      "density": 0.41783,
+      "avg_price": 42946.62,
+      "avg_duration_minutes": 482.97,
+      "avg_profit_per_hour": 5205.11,
+      "bonus": 82.64,
+      "opportunity_value": 1.04458
+    },
+    "广东省阳江市阳西县": {
+      "count": 1034,
+      "density": 0.02204,
+      "avg_price": 69722.64,
+      "avg_duration_minutes": 668.83,
+      "avg_profit_per_hour": 6322.97,
+      "bonus": 52.31,
+      "opportunity_value": 0.0551
+    },
+    "广东省东莞市常平镇": {
+      "count": 3536,
+      "density": 0.07536,
+      "avg_price": 37960.75,
+      "avg_duration_minutes": 451.15,
+      "avg_profit_per_hour": 4825.82,
+      "bonus": 45.72,
+      "opportunity_value": 0.1884
+    },
+    "广东省茂名市信宜市": {
+      "count": 954,
+      "density": 0.02033,
+      "avg_price": 69969.31,
+      "avg_duration_minutes": 703.02,
+      "avg_profit_per_hour": 6068.02,
+      "bonus": 50.12,
+      "opportunity_value": 0.05083
+    },
+    "广东省揭阳市揭东区": {
+      "count": 2432,
+      "density": 0.05183,
+      "avg_price": 70729.14,
+      "avg_duration_minutes": 725.49,
+      "avg_profit_per_hour": 5708.6,
+      "bonus": 50.39,
+      "opportunity_value": 0.12957
+    },
+    "广东省汕头市潮阳区": {
+      "count": 2138,
+      "density": 0.04556,
+      "avg_price": 76795.78,
+      "avg_duration_minutes": 794.9,
+      "avg_profit_per_hour": 5670.03,
+      "bonus": 49.47,
+      "opportunity_value": 0.1139
+    },
+    "广东省揭阳市惠来县": {
+      "count": 1261,
+      "density": 0.02687,
+      "avg_price": 82758.63,
+      "avg_duration_minutes": 734.23,
+      "avg_profit_per_hour": 6613.72,
+      "bonus": 55.1,
+      "opportunity_value": 0.06717
+    },
+    "广东省珠海市香洲区": {
+      "count": 3673,
+      "density": 0.07828,
+      "avg_price": 47830.8,
+      "avg_duration_minutes": 496.57,
+      "avg_profit_per_hour": 5793.26,
+      "bonus": 53.68,
+      "opportunity_value": 0.1957
+    },
+    "广东省东莞市大岭山镇": {
+      "count": 4186,
+      "density": 0.08921,
+      "avg_price": 35753.58,
+      "avg_duration_minutes": 438.54,
+      "avg_profit_per_hour": 4743.98,
+      "bonus": 46.45,
+      "opportunity_value": 0.22303
+    },
+    "广东省广州市天河区": {
+      "count": 3432,
+      "density": 0.07314,
+      "avg_price": 35552.64,
+      "avg_duration_minutes": 425.49,
+      "avg_profit_per_hour": 4967.15,
+      "bonus": 46.62,
+      "opportunity_value": 0.18285
+    },
+    "广东省梅州市梅江区": {
+      "count": 1189,
+      "density": 0.02534,
+      "avg_price": 80629.71,
+      "avg_duration_minutes": 743.43,
+      "avg_profit_per_hour": 6557.88,
+      "bonus": 54.5,
+      "opportunity_value": 0.06335
+    },
+    "广东省茂名市电白区": {
+      "count": 3265,
+      "density": 0.06958,
+      "avg_price": 73648.47,
+      "avg_duration_minutes": 760.98,
+      "avg_profit_per_hour": 5919.49,
+      "bonus": 53.82,
+      "opportunity_value": 0.17395
+    },
+    "广东省汕尾市海丰县": {
+      "count": 3212,
+      "density": 0.06845,
+      "avg_price": 64375.66,
+      "avg_duration_minutes": 595.93,
+      "avg_profit_per_hour": 6410.17,
+      "bonus": 57.6,
+      "opportunity_value": 0.17112
+    },
+    "广东省揭阳市榕城区": {
+      "count": 3032,
+      "density": 0.06462,
+      "avg_price": 71703.22,
+      "avg_duration_minutes": 728.97,
+      "avg_profit_per_hour": 5743.6,
+      "bonus": 51.94,
+      "opportunity_value": 0.16155
+    },
+    "广东省珠海市斗门区": {
+      "count": 2178,
+      "density": 0.04642,
+      "avg_price": 49379.26,
+      "avg_duration_minutes": 508.86,
+      "avg_profit_per_hour": 5807.74,
+      "bonus": 50.64,
+      "opportunity_value": 0.11605
+    },
+    "广东省深圳市南山区": {
+      "count": 4000,
+      "density": 0.08525,
+      "avg_price": 46333.78,
+      "avg_duration_minutes": 463.76,
+      "avg_profit_per_hour": 5996.9,
+      "bonus": 55.99,
+      "opportunity_value": 0.21313
+    },
+    "广东省茂名市化州市": {
+      "count": 1367,
+      "density": 0.02913,
+      "avg_price": 72365.28,
+      "avg_duration_minutes": 778.19,
+      "avg_profit_per_hour": 5614.12,
+      "bonus": 47.4,
+      "opportunity_value": 0.07283
+    },
+    "广东省惠州市惠城区": {
+      "count": 11005,
+      "density": 0.23453,
+      "avg_price": 41837.31,
+      "avg_duration_minutes": 474.95,
+      "avg_profit_per_hour": 5187.63,
+      "bonus": 64.35,
+      "opportunity_value": 0.58632
+    },
+    "广东省深圳市龙华区": {
+      "count": 5631,
+      "density": 0.12001,
+      "avg_price": 41068.69,
+      "avg_duration_minutes": 462.82,
+      "avg_profit_per_hour": 5307.04,
+      "bonus": 53.96,
+      "opportunity_value": 0.30002
+    },
+    "广东省广州市番禺区": {
+      "count": 10839,
+      "density": 0.231,
+      "avg_price": 36209.28,
+      "avg_duration_minutes": 438.86,
+      "avg_profit_per_hour": 4928.25,
+      "bonus": 61.94,
+      "opportunity_value": 0.5775
+    },
+    "广东省东莞市寮步镇": {
+      "count": 2945,
+      "density": 0.06276,
+      "avg_price": 34612.28,
+      "avg_duration_minutes": 436.37,
+      "avg_profit_per_hour": 4725.88,
+      "bonus": 43.68,
+      "opportunity_value": 0.1569
+    },
+    "广东省肇庆市四会市": {
+      "count": 3840,
+      "density": 0.08184,
+      "avg_price": 39957.65,
+      "avg_duration_minutes": 467.38,
+      "avg_profit_per_hour": 5151.9,
+      "bonus": 48.95,
+      "opportunity_value": 0.2046
+    },
+    "广东省广州市南沙区": {
+      "count": 6795,
+      "density": 0.14481,
+      "avg_price": 38266.87,
+      "avg_duration_minutes": 436.02,
+      "avg_profit_per_hour": 5374.85,
+      "bonus": 56.95,
+      "opportunity_value": 0.36202
+    },
+    "广东省肇庆市广宁县": {
+      "count": 675,
+      "density": 0.01439,
+      "avg_price": 54247.34,
+      "avg_duration_minutes": 531.96,
+      "avg_profit_per_hour": 6165.61,
+      "bonus": 50.31,
+      "opportunity_value": 0.03598
+    },
+    "广东省湛江市徐闻县": {
+      "count": 994,
+      "density": 0.02118,
+      "avg_price": 77577.74,
+      "avg_duration_minutes": 801.48,
+      "avg_profit_per_hour": 5904.22,
+      "bonus": 48.91,
+      "opportunity_value": 0.05295
+    },
+    "广东省东莞市桥头镇": {
+      "count": 1483,
+      "density": 0.0316,
+      "avg_price": 36150.71,
+      "avg_duration_minutes": 450.05,
+      "avg_profit_per_hour": 4717.1,
+      "bonus": 40.53,
+      "opportunity_value": 0.079
+    },
+    "广东省汕头市金平区": {
+      "count": 2167,
+      "density": 0.04618,
+      "avg_price": 74979.0,
+      "avg_duration_minutes": 733.13,
+      "avg_profit_per_hour": 5726.07,
+      "bonus": 49.97,
+      "opportunity_value": 0.11545
+    },
+    "广东省中山市三角镇": {
+      "count": 959,
+      "density": 0.02044,
+      "avg_price": 33279.4,
+      "avg_duration_minutes": 430.06,
+      "avg_profit_per_hour": 4688.94,
+      "bonus": 39.2,
+      "opportunity_value": 0.0511
+    },
+    "广东省肇庆市高要区": {
+      "count": 2714,
+      "density": 0.05784,
+      "avg_price": 42796.26,
+      "avg_duration_minutes": 485.01,
+      "avg_profit_per_hour": 5329.09,
+      "bonus": 47.98,
+      "opportunity_value": 0.1446
+    },
+    "广东省佛山市禅城区": {
+      "count": 5114,
+      "density": 0.10899,
+      "avg_price": 34440.48,
+      "avg_duration_minutes": 432.75,
+      "avg_profit_per_hour": 4634.28,
+      "bonus": 47.53,
+      "opportunity_value": 0.27248
+    },
+    "广东省佛山市高明区": {
+      "count": 2578,
+      "density": 0.05494,
+      "avg_price": 38095.64,
+      "avg_duration_minutes": 459.01,
+      "avg_profit_per_hour": 5069.89,
+      "bonus": 45.64,
+      "opportunity_value": 0.13735
+    },
+    "广东省中山市西区街道": {
+      "count": 1052,
+      "density": 0.02242,
+      "avg_price": 43136.15,
+      "avg_duration_minutes": 492.4,
+      "avg_profit_per_hour": 5190.61,
+      "bonus": 43.37,
+      "opportunity_value": 0.05605
+    },
+    "广东省广州市海珠区": {
+      "count": 2138,
+      "density": 0.04556,
+      "avg_price": 38796.32,
+      "avg_duration_minutes": 430.52,
+      "avg_profit_per_hour": 5310.03,
+      "bonus": 46.61,
+      "opportunity_value": 0.1139
+    },
+    "广东省东莞市凤岗镇": {
+      "count": 6160,
+      "density": 0.13128,
+      "avg_price": 37354.61,
+      "avg_duration_minutes": 455.48,
+      "avg_profit_per_hour": 4813.36,
+      "bonus": 51.16,
+      "opportunity_value": 0.3282
+    },
+    "广东省河源市东源县": {
+      "count": 989,
+      "density": 0.02108,
+      "avg_price": 63175.0,
+      "avg_duration_minutes": 589.35,
+      "avg_profit_per_hour": 6399.13,
+      "bonus": 52.82,
+      "opportunity_value": 0.0527
+    },
+    "广东省韶关市新丰县": {
+      "count": 569,
+      "density": 0.01213,
+      "avg_price": 61013.55,
+      "avg_duration_minutes": 561.6,
+      "avg_profit_per_hour": 6599.22,
+      "bonus": 53.52,
+      "opportunity_value": 0.03033
+    },
+    "广东省茂名市高州市": {
+      "count": 1513,
+      "density": 0.03224,
+      "avg_price": 71124.0,
+      "avg_duration_minutes": 750.0,
+      "avg_profit_per_hour": 5786.36,
+      "bonus": 49.07,
+      "opportunity_value": 0.0806
+    },
+    "广东省东莞市高埗镇": {
+      "count": 5871,
+      "density": 0.12512,
+      "avg_price": 24920.09,
+      "avg_duration_minutes": 382.69,
+      "avg_profit_per_hour": 3770.45,
+      "bonus": 42.28,
+      "opportunity_value": 0.3128
+    },
+    "广东省佛山市三水区": {
+      "count": 5533,
+      "density": 0.11792,
+      "avg_price": 36036.05,
+      "avg_duration_minutes": 444.72,
+      "avg_profit_per_hour": 4878.96,
+      "bonus": 50.36,
+      "opportunity_value": 0.2948
+    },
+    "广东省惠州市大亚湾经济开发区": {
+      "count": 15,
+      "density": 0.00032,
+      "avg_price": 78670.32,
+      "avg_duration_minutes": 670.0,
+      "avg_profit_per_hour": 6863.39,
+      "bonus": 54.45,
+      "opportunity_value": 0.0008
+    },
+    "广东省云浮市云城区": {
+      "count": 886,
+      "density": 0.01888,
+      "avg_price": 53301.52,
+      "avg_duration_minutes": 545.88,
+      "avg_profit_per_hour": 5963.91,
+      "bonus": 49.16,
+      "opportunity_value": 0.0472
+    },
+    "广东省中山市黄圃镇": {
+      "count": 822,
+      "density": 0.01752,
+      "avg_price": 37962.98,
+      "avg_duration_minutes": 450.7,
+      "avg_profit_per_hour": 5026.53,
+      "bonus": 41.59,
+      "opportunity_value": 0.0438
+    },
+    "广东省江门市江海区": {
+      "count": 1895,
+      "density": 0.04039,
+      "avg_price": 37936.24,
+      "avg_duration_minutes": 456.7,
+      "avg_profit_per_hour": 5025.61,
+      "bonus": 43.84,
+      "opportunity_value": 0.10098
+    },
+    "广东省东莞市厚街镇": {
+      "count": 7384,
+      "density": 0.15736,
+      "avg_price": 24817.12,
+      "avg_duration_minutes": 387.04,
+      "avg_profit_per_hour": 3829.58,
+      "bonus": 45.94,
+      "opportunity_value": 0.3934
+    },
+    "广东省东莞市虎门镇": {
+      "count": 4333,
+      "density": 0.09234,
+      "avg_price": 44863.46,
+      "avg_duration_minutes": 487.5,
+      "avg_profit_per_hour": 5211.98,
+      "bonus": 50.47,
+      "opportunity_value": 0.23085
+    },
+    "广东省东莞市石碣镇": {
+      "count": 919,
+      "density": 0.01959,
+      "avg_price": 35298.92,
+      "avg_duration_minutes": 452.91,
+      "avg_profit_per_hour": 4556.16,
+      "bonus": 38.06,
+      "opportunity_value": 0.04897
+    },
+    "广东省东莞市南城街道": {
+      "count": 1440,
+      "density": 0.03069,
+      "avg_price": 32470.27,
+      "avg_duration_minutes": 417.11,
+      "avg_profit_per_hour": 4694.22,
+      "bonus": 40.26,
+      "opportunity_value": 0.07673
+    },
+    "广东省韶关市翁源县": {
+      "count": 984,
+      "density": 0.02097,
+      "avg_price": 61667.23,
+      "avg_duration_minutes": 592.7,
+      "avg_profit_per_hour": 6248.78,
+      "bonus": 51.62,
+      "opportunity_value": 0.05242
+    },
+    "广东省中山市坦洲镇": {
+      "count": 1439,
+      "density": 0.03067,
+      "avg_price": 43844.7,
+      "avg_duration_minutes": 490.27,
+      "avg_profit_per_hour": 5395.83,
+      "bonus": 45.82,
+      "opportunity_value": 0.07667
+    },
+    "广东省潮州市湘桥区": {
+      "count": 748,
+      "density": 0.01594,
+      "avg_price": 77383.23,
+      "avg_duration_minutes": 814.96,
+      "avg_profit_per_hour": 5604.35,
+      "bonus": 46.01,
+      "opportunity_value": 0.03985
+    },
+    "广东省广州市从化区": {
+      "count": 3318,
+      "density": 0.07071,
+      "avg_price": 38405.22,
+      "avg_duration_minutes": 446.81,
+      "avg_profit_per_hour": 5195.05,
+      "bonus": 48.19,
+      "opportunity_value": 0.17677
+    },
+    "广东省广州市荔湾区": {
+      "count": 4325,
+      "density": 0.09217,
+      "avg_price": 40905.0,
+      "avg_duration_minutes": 460.43,
+      "avg_profit_per_hour": 5218.2,
+      "bonus": 50.5,
+      "opportunity_value": 0.23042
+    },
+    "广东省韶关市武江区": {
+      "count": 966,
+      "density": 0.02059,
+      "avg_price": 71382.25,
+      "avg_duration_minutes": 678.11,
+      "avg_profit_per_hour": 6336.92,
+      "bonus": 52.28,
+      "opportunity_value": 0.05147
+    },
+    "广东省潮州市潮安区": {
+      "count": 2326,
+      "density": 0.04957,
+      "avg_price": 68393.76,
+      "avg_duration_minutes": 745.03,
+      "avg_profit_per_hour": 5268.93,
+      "bonus": 46.68,
+      "opportunity_value": 0.12393
+    },
+    "广东省汕尾市城区": {
+      "count": 1290,
+      "density": 0.02749,
+      "avg_price": 77812.52,
+      "avg_duration_minutes": 674.38,
+      "avg_profit_per_hour": 6761.2,
+      "bonus": 56.33,
+      "opportunity_value": 0.06873
+    },
+    "广东省湛江市廉江市": {
+      "count": 1864,
+      "density": 0.03972,
+      "avg_price": 73580.78,
+      "avg_duration_minutes": 819.28,
+      "avg_profit_per_hour": 5486.62,
+      "bonus": 47.43,
+      "opportunity_value": 0.0993
+    },
+    "广东省河源市连平县": {
+      "count": 758,
+      "density": 0.01615,
+      "avg_price": 67188.04,
+      "avg_duration_minutes": 628.01,
+      "avg_profit_per_hour": 6444.62,
+      "bonus": 52.7,
+      "opportunity_value": 0.04038
+    },
+    "广东省肇庆市端州区": {
+      "count": 1431,
+      "density": 0.0305,
+      "avg_price": 44103.7,
+      "avg_duration_minutes": 504.63,
+      "avg_profit_per_hour": 5313.59,
+      "bonus": 45.15,
+      "opportunity_value": 0.07625
+    },
+    "广东省湛江市吴川市": {
+      "count": 1037,
+      "density": 0.0221,
+      "avg_price": 69886.48,
+      "avg_duration_minutes": 779.31,
+      "avg_profit_per_hour": 5471.19,
+      "bonus": 45.57,
+      "opportunity_value": 0.05525
+    },
+    "广东省阳江市阳春市": {
+      "count": 1377,
+      "density": 0.02935,
+      "avg_price": 62307.61,
+      "avg_duration_minutes": 623.11,
+      "avg_profit_per_hour": 6087.03,
+      "bonus": 51.17,
+      "opportunity_value": 0.07337
+    },
+    "广东省东莞市大朗镇": {
+      "count": 5995,
+      "density": 0.12776,
+      "avg_price": 26458.21,
+      "avg_duration_minutes": 393.57,
+      "avg_profit_per_hour": 3976.49,
+      "bonus": 44.18,
+      "opportunity_value": 0.3194
+    },
+    "广东省潮州市饶平县": {
+      "count": 1315,
+      "density": 0.02802,
+      "avg_price": 96630.24,
+      "avg_duration_minutes": 838.06,
+      "avg_profit_per_hour": 6692.52,
+      "bonus": 55.84,
+      "opportunity_value": 0.07005
+    },
+    "广东省韶关市曲江区": {
+      "count": 578,
+      "density": 0.01232,
+      "avg_price": 71567.81,
+      "avg_duration_minutes": 659.28,
+      "avg_profit_per_hour": 6529.14,
+      "bonus": 52.99,
+      "opportunity_value": 0.0308
+    },
+    "广东省江门市开平市": {
+      "count": 2469,
+      "density": 0.05262,
+      "avg_price": 49397.4,
+      "avg_duration_minutes": 534.82,
+      "avg_profit_per_hour": 5547.0,
+      "bonus": 49.19,
+      "opportunity_value": 0.13155
+    },
+    "广东省河源市和平县": {
+      "count": 508,
+      "density": 0.01083,
+      "avg_price": 81353.93,
+      "avg_duration_minutes": 655.1,
+      "avg_profit_per_hour": 7404.58,
+      "bonus": 59.78,
+      "opportunity_value": 0.02707
+    },
+    "广东省江门市新会区": {
+      "count": 4624,
+      "density": 0.09854,
+      "avg_price": 42634.52,
+      "avg_duration_minutes": 488.97,
+      "avg_profit_per_hour": 5209.3,
+      "bonus": 51.06,
+      "opportunity_value": 0.24635
+    },
+    "广东省云浮市罗定市": {
+      "count": 1299,
+      "density": 0.02768,
+      "avg_price": 63832.46,
+      "avg_duration_minutes": 636.95,
+      "avg_profit_per_hour": 6128.15,
+      "bonus": 51.33,
+      "opportunity_value": 0.0692
+    },
+    "广东省深圳市光明区": {
+      "count": 2985,
+      "density": 0.06361,
+      "avg_price": 37921.2,
+      "avg_duration_minutes": 441.72,
+      "avg_profit_per_hour": 5125.17,
+      "bonus": 46.93,
+      "opportunity_value": 0.15902
+    },
+    "广东省韶关市南雄市": {
+      "count": 585,
+      "density": 0.01247,
+      "avg_price": 76730.3,
+      "avg_duration_minutes": 749.98,
+      "avg_profit_per_hour": 6205.23,
+      "bonus": 50.43,
+      "opportunity_value": 0.03118
+    },
+    "广东省珠海市金湾区": {
+      "count": 2896,
+      "density": 0.06172,
+      "avg_price": 47982.21,
+      "avg_duration_minutes": 524.51,
+      "avg_profit_per_hour": 5540.77,
+      "bonus": 50.04,
+      "opportunity_value": 0.1543
+    },
+    "广东省阳江市阳东区": {
+      "count": 1458,
+      "density": 0.03107,
+      "avg_price": 64499.03,
+      "avg_duration_minutes": 649.89,
+      "avg_profit_per_hour": 6051.1,
+      "bonus": 51.05,
+      "opportunity_value": 0.07767
+    },
+    "广东省梅州市五华县": {
+      "count": 1199,
+      "density": 0.02555,
+      "avg_price": 70091.41,
+      "avg_duration_minutes": 654.6,
+      "avg_profit_per_hour": 6418.5,
+      "bonus": 53.42,
+      "opportunity_value": 0.06388
+    },
+    "广东省河源市源城区": {
+      "count": 2133,
+      "density": 0.04546,
+      "avg_price": 54045.01,
+      "avg_duration_minutes": 557.83,
+      "avg_profit_per_hour": 5818.6,
+      "bonus": 50.63,
+      "opportunity_value": 0.11365
+    },
+    "广东省揭阳市普宁市": {
+      "count": 3123,
+      "density": 0.06656,
+      "avg_price": 74164.38,
+      "avg_duration_minutes": 720.91,
+      "avg_profit_per_hour": 5999.42,
+      "bonus": 54.16,
+      "opportunity_value": 0.1664
+    },
+    "广东省清远市连山壮族瑶族自治县": {
+      "count": 142,
+      "density": 0.00303,
+      "avg_price": 72202.66,
+      "avg_duration_minutes": 646.73,
+      "avg_profit_per_hour": 6852.15,
+      "bonus": 54.63,
+      "opportunity_value": 0.00758
+    },
+    "广东省湛江市坡头区": {
+      "count": 374,
+      "density": 0.00797,
+      "avg_price": 70691.2,
+      "avg_duration_minutes": 805.62,
+      "avg_profit_per_hour": 5417.14,
+      "bonus": 43.74,
+      "opportunity_value": 0.01992
+    },
+    "广东省东莞市黄江镇": {
+      "count": 1982,
+      "density": 0.04224,
+      "avg_price": 35299.12,
+      "avg_duration_minutes": 434.1,
+      "avg_profit_per_hour": 4848.03,
+      "bonus": 42.62,
+      "opportunity_value": 0.1056
+    },
+    "广东省汕尾市陆丰市": {
+      "count": 2679,
+      "density": 0.05709,
+      "avg_price": 75487.84,
+      "avg_duration_minutes": 660.2,
+      "avg_profit_per_hour": 6720.95,
+      "bonus": 58.94,
+      "opportunity_value": 0.14272
+    },
+    "广东省中山市三乡镇": {
+      "count": 1139,
+      "density": 0.02427,
+      "avg_price": 40825.94,
+      "avg_duration_minutes": 476.81,
+      "avg_profit_per_hour": 5160.92,
+      "bonus": 43.32,
+      "opportunity_value": 0.06067
+    },
+    "广东省湛江市霞山区": {
+      "count": 1154,
+      "density": 0.02459,
+      "avg_price": 86276.59,
+      "avg_duration_minutes": 879.86,
+      "avg_profit_per_hour": 5914.2,
+      "bonus": 49.33,
+      "opportunity_value": 0.06148
+    },
+    "广东省江门市台山市": {
+      "count": 2486,
+      "density": 0.05298,
+      "avg_price": 53428.85,
+      "avg_duration_minutes": 545.71,
+      "avg_profit_per_hour": 5916.04,
+      "bonus": 52.15,
+      "opportunity_value": 0.13245
+    },
+    "广东省阳江市江城区": {
+      "count": 2487,
+      "density": 0.053,
+      "avg_price": 64750.76,
+      "avg_duration_minutes": 672.51,
+      "avg_profit_per_hour": 5887.91,
+      "bonus": 51.93,
+      "opportunity_value": 0.1325
+    },
+    "广东省汕头市澄海区": {
+      "count": 1748,
+      "density": 0.03725,
+      "avg_price": 76959.89,
+      "avg_duration_minutes": 821.46,
+      "avg_profit_per_hour": 5487.97,
+      "bonus": 47.2,
+      "opportunity_value": 0.09312
+    },
+    "广东省肇庆市封开县": {
+      "count": 433,
+      "density": 0.00923,
+      "avg_price": 68237.56,
+      "avg_duration_minutes": 641.82,
+      "avg_profit_per_hour": 6472.3,
+      "bonus": 52.23,
+      "opportunity_value": 0.02308
+    },
+    "广东省东莞市洪梅镇": {
+      "count": 1057,
+      "density": 0.02253,
+      "avg_price": 31474.58,
+      "avg_duration_minutes": 408.75,
+      "avg_profit_per_hour": 4710.15,
+      "bonus": 39.58,
+      "opportunity_value": 0.05633
+    },
+    "广东省韶关市浈江区": {
+      "count": 1294,
+      "density": 0.02758,
+      "avg_price": 75120.85,
+      "avg_duration_minutes": 696.08,
+      "avg_profit_per_hour": 6464.66,
+      "bonus": 53.99,
+      "opportunity_value": 0.06895
+    },
+    "广东省中山市民众街道": {
+      "count": 1101,
+      "density": 0.02346,
+      "avg_price": 38683.47,
+      "avg_duration_minutes": 457.8,
+      "avg_profit_per_hour": 5182.56,
+      "bonus": 43.41,
+      "opportunity_value": 0.05865
+    },
+    "广东省东莞市企石镇": {
+      "count": 1174,
+      "density": 0.02502,
+      "avg_price": 34728.68,
+      "avg_duration_minutes": 449.35,
+      "avg_profit_per_hour": 4608.95,
+      "bonus": 39.02,
+      "opportunity_value": 0.06255
+    },
+    "广东省江门市鹤山市": {
+      "count": 3162,
+      "density": 0.06739,
+      "avg_price": 38409.96,
+      "avg_duration_minutes": 457.57,
+      "avg_profit_per_hour": 5107.54,
+      "bonus": 47.17,
+      "opportunity_value": 0.16848
+    },
+    "广东省中山市东凤镇": {
+      "count": 4651,
+      "density": 0.09912,
+      "avg_price": 25286.52,
+      "avg_duration_minutes": 394.05,
+      "avg_profit_per_hour": 3859.53,
+      "bonus": 40.41,
+      "opportunity_value": 0.2478
+    },
+    "广东省肇庆市鼎湖区": {
+      "count": 997,
+      "density": 0.02125,
+      "avg_price": 40411.43,
+      "avg_duration_minutes": 469.62,
+      "avg_profit_per_hour": 5208.09,
+      "bonus": 43.4,
+      "opportunity_value": 0.05313
+    },
+    "广东省广州市黄埔区": {
+      "count": 7079,
+      "density": 0.15086,
+      "avg_price": 35173.14,
+      "avg_duration_minutes": 413.86,
+      "avg_profit_per_hour": 5150.61,
+      "bonus": 55.77,
+      "opportunity_value": 0.37715
+    },
+    "广东省东莞市东坑镇": {
+      "count": 818,
+      "density": 0.01743,
+      "avg_price": 34778.09,
+      "avg_duration_minutes": 432.67,
+      "avg_profit_per_hour": 4791.27,
+      "bonus": 39.71,
+      "opportunity_value": 0.04358
+    },
+    "广东省东莞市谢岗镇": {
+      "count": 1909,
+      "density": 0.04068,
+      "avg_price": 39622.16,
+      "avg_duration_minutes": 464.84,
+      "avg_profit_per_hour": 4932.8,
+      "bonus": 43.14,
+      "opportunity_value": 0.1017
+    },
+    "广东省深圳市坪山区": {
+      "count": 2666,
+      "density": 0.05682,
+      "avg_price": 43234.31,
+      "avg_duration_minutes": 468.14,
+      "avg_profit_per_hour": 5502.02,
+      "bonus": 49.25,
+      "opportunity_value": 0.14205
+    },
+    "广东省清远市英德市": {
+      "count": 2808,
+      "density": 0.05984,
+      "avg_price": 55892.19,
+      "avg_duration_minutes": 562.12,
+      "avg_profit_per_hour": 5949.98,
+      "bonus": 53.1,
+      "opportunity_value": 0.1496
+    },
+    "广东省广州市增城区": {
+      "count": 8425,
+      "density": 0.17955,
+      "avg_price": 36394.79,
+      "avg_duration_minutes": 432.8,
+      "avg_profit_per_hour": 5046.74,
+      "bonus": 57.79,
+      "opportunity_value": 0.44887
+    },
+    "广东省中山市中山港街道": {
+      "count": 1436,
+      "density": 0.0306,
+      "avg_price": 36293.25,
+      "avg_duration_minutes": 444.13,
+      "avg_profit_per_hour": 4978.36,
+      "bonus": 42.5,
+      "opportunity_value": 0.0765
+    },
+    "广东省中山市大涌镇": {
+      "count": 422,
+      "density": 0.00899,
+      "avg_price": 37995.42,
+      "avg_duration_minutes": 458.52,
+      "avg_profit_per_hour": 5006.54,
+      "bonus": 40.59,
+      "opportunity_value": 0.02247
+    },
+    "广东省江门市蓬江区": {
+      "count": 3668,
+      "density": 0.07817,
+      "avg_price": 37092.88,
+      "avg_duration_minutes": 455.79,
+      "avg_profit_per_hour": 4889.35,
+      "bonus": 46.51,
+      "opportunity_value": 0.19543
+    },
+    "广东省东莞市麻涌镇": {
+      "count": 1572,
+      "density": 0.0335,
+      "avg_price": 38260.81,
+      "avg_duration_minutes": 442.85,
+      "avg_profit_per_hour": 5215.32,
+      "bonus": 44.67,
+      "opportunity_value": 0.08375
+    },
+    "广东省揭阳市揭西县": {
+      "count": 1095,
+      "density": 0.02334,
+      "avg_price": 69859.99,
+      "avg_duration_minutes": 666.2,
+      "avg_profit_per_hour": 6193.33,
+      "bonus": 51.42,
+      "opportunity_value": 0.05835
+    },
+    "广东省东莞市东城街道": {
+      "count": 3207,
+      "density": 0.06835,
+      "avg_price": 42424.05,
+      "avg_duration_minutes": 471.73,
+      "avg_profit_per_hour": 5219.47,
+      "bonus": 48.15,
+      "opportunity_value": 0.17087
+    },
+    "广东省中山市南区街道": {
+      "count": 595,
+      "density": 0.01268,
+      "avg_price": 33316.26,
+      "avg_duration_minutes": 429.77,
+      "avg_profit_per_hour": 4670.07,
+      "bonus": 38.28,
+      "opportunity_value": 0.0317
+    },
+    "广东省东莞市中堂镇": {
+      "count": 1896,
+      "density": 0.04041,
+      "avg_price": 34946.91,
+      "avg_duration_minutes": 432.48,
+      "avg_profit_per_hour": 4854.14,
+      "bonus": 42.49,
+      "opportunity_value": 0.10103
+    },
+    "广东省东莞市石排镇": {
+      "count": 1366,
+      "density": 0.02911,
+      "avg_price": 34567.06,
+      "avg_duration_minutes": 435.35,
+      "avg_profit_per_hour": 4758.28,
+      "bonus": 40.61,
+      "opportunity_value": 0.07278
+    },
+    "广东省东莞市长安镇": {
+      "count": 3028,
+      "density": 0.06453,
+      "avg_price": 33519.67,
+      "avg_duration_minutes": 421.94,
+      "avg_profit_per_hour": 4771.13,
+      "bonus": 44.22,
+      "opportunity_value": 0.16132
+    },
+    "广东省梅州市梅县区": {
+      "count": 883,
+      "density": 0.01882,
+      "avg_price": 77381.79,
+      "avg_duration_minutes": 744.26,
+      "avg_profit_per_hour": 6301.26,
+      "bonus": 51.82,
+      "opportunity_value": 0.04705
+    },
+    "广东省云浮市云安区": {
+      "count": 380,
+      "density": 0.0081,
+      "avg_price": 55570.66,
+      "avg_duration_minutes": 563.81,
+      "avg_profit_per_hour": 5956.25,
+      "bonus": 48.03,
+      "opportunity_value": 0.02025
+    },
+    "广东省茂名市茂南区": {
+      "count": 2016,
+      "density": 0.04296,
+      "avg_price": 74041.73,
+      "avg_duration_minutes": 790.91,
+      "avg_profit_per_hour": 5661.67,
+      "bonus": 49.14,
+      "opportunity_value": 0.1074
+    },
+    "广东省中山市南朗街道": {
+      "count": 1201,
+      "density": 0.0256,
+      "avg_price": 38769.41,
+      "avg_duration_minutes": 451.42,
+      "avg_profit_per_hour": 5266.26,
+      "bonus": 44.29,
+      "opportunity_value": 0.064
+    },
+    "广东省清远市连州市": {
+      "count": 703,
+      "density": 0.01498,
+      "avg_price": 74557.95,
+      "avg_duration_minutes": 698.33,
+      "avg_profit_per_hour": 6536.72,
+      "bonus": 53.31,
+      "opportunity_value": 0.03745
+    },
+    "广东省梅州市丰顺县": {
+      "count": 761,
+      "density": 0.01622,
+      "avg_price": 74772.11,
+      "avg_duration_minutes": 718.95,
+      "avg_profit_per_hour": 6162.27,
+      "bonus": 50.46,
+      "opportunity_value": 0.04055
+    },
+    "广东省云浮市新兴县": {
+      "count": 1235,
+      "density": 0.02632,
+      "avg_price": 53162.54,
+      "avg_duration_minutes": 564.42,
+      "avg_profit_per_hour": 5762.25,
+      "bonus": 48.29,
+      "opportunity_value": 0.0658
+    },
+    "广东省中山市沙溪镇": {
+      "count": 1446,
+      "density": 0.03082,
+      "avg_price": 32423.95,
+      "avg_duration_minutes": 437.22,
+      "avg_profit_per_hour": 4290.48,
+      "bonus": 37.07,
+      "opportunity_value": 0.07705
+    },
+    "广东省河源市龙川县": {
+      "count": 1197,
+      "density": 0.02551,
+      "avg_price": 72767.65,
+      "avg_duration_minutes": 658.64,
+      "avg_profit_per_hour": 6706.98,
+      "bonus": 55.7,
+      "opportunity_value": 0.06377
+    },
+    "广东省中山市古镇镇": {
+      "count": 1129,
+      "density": 0.02406,
+      "avg_price": 32274.14,
+      "avg_duration_minutes": 444.57,
+      "avg_profit_per_hour": 4373.26,
+      "bonus": 37.06,
+      "opportunity_value": 0.06015
+    },
+    "广东省汕尾市陆河县": {
+      "count": 542,
+      "density": 0.01155,
+      "avg_price": 68400.43,
+      "avg_duration_minutes": 649.24,
+      "avg_profit_per_hour": 6337.42,
+      "bonus": 51.39,
+      "opportunity_value": 0.02887
+    },
+    "广东省东莞市道滘镇": {
+      "count": 1338,
+      "density": 0.02851,
+      "avg_price": 32802.98,
+      "avg_duration_minutes": 424.65,
+      "avg_profit_per_hour": 4610.33,
+      "bonus": 39.38,
+      "opportunity_value": 0.07128
+    },
+    "广东省深圳市盐田区": {
+      "count": 4080,
+      "density": 0.08695,
+      "avg_price": 52869.06,
+      "avg_duration_minutes": 511.89,
+      "avg_profit_per_hour": 6257.71,
+      "bonus": 58.22,
+      "opportunity_value": 0.21737
+    },
+    "广东省汕头市南澳县": {
+      "count": 107,
+      "density": 0.00228,
+      "avg_price": 95747.64,
+      "avg_duration_minutes": 858.38,
+      "avg_profit_per_hour": 6468.71,
+      "bonus": 51.51,
+      "opportunity_value": 0.0057
+    },
+    "广东省清远市清城区": {
+      "count": 4841,
+      "density": 0.10317,
+      "avg_price": 42254.76,
+      "avg_duration_minutes": 470.83,
+      "avg_profit_per_hour": 5387.59,
+      "bonus": 52.93,
+      "opportunity_value": 0.25793
+    },
+    "广东省韶关市始兴县": {
+      "count": 338,
+      "density": 0.0072,
+      "avg_price": 76607.85,
+      "avg_duration_minutes": 702.7,
+      "avg_profit_per_hour": 6577.04,
+      "bonus": 52.86,
+      "opportunity_value": 0.018
+    },
+    "广东省肇庆市怀集县": {
+      "count": 1223,
+      "density": 0.02606,
+      "avg_price": 61108.88,
+      "avg_duration_minutes": 588.1,
+      "avg_profit_per_hour": 6349.76,
+      "bonus": 52.93,
+      "opportunity_value": 0.06515
+    },
+    "广东省清远市佛冈县": {
+      "count": 1290,
+      "density": 0.02749,
+      "avg_price": 43866.82,
+      "avg_duration_minutes": 482.82,
+      "avg_profit_per_hour": 5475.38,
+      "bonus": 46.13,
+      "opportunity_value": 0.06873
+    },
+    "广东省清远市清新区": {
+      "count": 1423,
+      "density": 0.03033,
+      "avg_price": 47641.3,
+      "avg_duration_minutes": 496.03,
+      "avg_profit_per_hour": 5762.74,
+      "bonus": 48.69,
+      "opportunity_value": 0.07583
+    },
+    "广东省梅州市蕉岭县": {
+      "count": 271,
+      "density": 0.00578,
+      "avg_price": 91124.26,
+      "avg_duration_minutes": 851.31,
+      "avg_profit_per_hour": 6466.57,
+      "bonus": 51.84,
+      "opportunity_value": 0.01445
+    },
+    "广东省云浮市郁南县": {
+      "count": 605,
+      "density": 0.01289,
+      "avg_price": 61691.41,
+      "avg_duration_minutes": 628.52,
+      "avg_profit_per_hour": 5972.08,
+      "bonus": 48.63,
+      "opportunity_value": 0.03223
+    },
+    "广东省深圳市福田区": {
+      "count": 1903,
+      "density": 0.04056,
+      "avg_price": 45838.81,
+      "avg_duration_minutes": 457.21,
+      "avg_profit_per_hour": 6056.62,
+      "bonus": 52.04,
+      "opportunity_value": 0.1014
+    },
+    "广东省梅州市平远县": {
+      "count": 285,
+      "density": 0.00607,
+      "avg_price": 82428.58,
+      "avg_duration_minutes": 800.99,
+      "avg_profit_per_hour": 6300.76,
+      "bonus": 50.56,
+      "opportunity_value": 0.01517
+    },
+    "广东省梅州市兴宁市": {
+      "count": 1427,
+      "density": 0.03041,
+      "avg_price": 76087.71,
+      "avg_duration_minutes": 704.93,
+      "avg_profit_per_hour": 6505.19,
+      "bonus": 54.59,
+      "opportunity_value": 0.07602
+    },
+    "广东省东莞市樟木头镇": {
+      "count": 1246,
+      "density": 0.02655,
+      "avg_price": 40659.02,
+      "avg_duration_minutes": 466.43,
+      "avg_profit_per_hour": 5094.45,
+      "bonus": 43.02,
+      "opportunity_value": 0.06638
+    },
+    "广东省中山市港口镇": {
+      "count": 614,
+      "density": 0.01309,
+      "avg_price": 37526.05,
+      "avg_duration_minutes": 455.82,
+      "avg_profit_per_hour": 5032.28,
+      "bonus": 41.19,
+      "opportunity_value": 0.03272
+    },
+    "广东省中山市东区街道": {
+      "count": 342,
+      "density": 0.00729,
+      "avg_price": 38238.4,
+      "avg_duration_minutes": 462.96,
+      "avg_profit_per_hour": 5007.4,
+      "bonus": 40.42,
+      "opportunity_value": 0.01822
+    },
+    "广东省清远市阳山县": {
+      "count": 449,
+      "density": 0.00957,
+      "avg_price": 68414.74,
+      "avg_duration_minutes": 628.79,
+      "avg_profit_per_hour": 6569.25,
+      "bonus": 53.03,
+      "opportunity_value": 0.02393
+    },
+    "广东省中山市南头镇": {
+      "count": 804,
+      "density": 0.01713,
+      "avg_price": 33659.21,
+      "avg_duration_minutes": 429.49,
+      "avg_profit_per_hour": 4763.81,
+      "bonus": 39.47,
+      "opportunity_value": 0.04283
+    },
+    "广东省惠州市仲恺高新区": {
+      "count": 21,
+      "density": 0.00045,
+      "avg_price": 42659.29,
+      "avg_duration_minutes": 525.52,
+      "avg_profit_per_hour": 4785.81,
+      "bonus": 37.99,
+      "opportunity_value": 0.00112
+    },
+    "广东省湛江市赤坎区": {
+      "count": 851,
+      "density": 0.01814,
+      "avg_price": 81457.27,
+      "avg_duration_minutes": 898.35,
+      "avg_profit_per_hour": 5417.76,
+      "bonus": 44.75,
+      "opportunity_value": 0.04535
+    },
+    "广东省东莞市万江街道": {
+      "count": 1933,
+      "density": 0.0412,
+      "avg_price": 32391.73,
+      "avg_duration_minutes": 424.8,
+      "avg_profit_per_hour": 4561.18,
+      "bonus": 40.24,
+      "opportunity_value": 0.103
+    },
+    "广东省湛江市麻章区": {
+      "count": 1048,
+      "density": 0.02233,
+      "avg_price": 88179.65,
+      "avg_duration_minutes": 905.23,
+      "avg_profit_per_hour": 5870.76,
+      "bonus": 48.76,
+      "opportunity_value": 0.05582
+    },
+    "广东省韶关市仁化县": {
+      "count": 264,
+      "density": 0.00563,
+      "avg_price": 79491.57,
+      "avg_duration_minutes": 729.93,
+      "avg_profit_per_hour": 6515.78,
+      "bonus": 52.22,
+      "opportunity_value": 0.01407
+    },
+    "广东省梅州市大埔县": {
+      "count": 367,
+      "density": 0.00782,
+      "avg_price": 89081.35,
+      "avg_duration_minutes": 808.17,
+      "avg_profit_per_hour": 6781.42,
+      "bonus": 54.54,
+      "opportunity_value": 0.01955
+    },
+    "广东省湛江市遂溪县": {
+      "count": 1123,
+      "density": 0.02393,
+      "avg_price": 75526.8,
+      "avg_duration_minutes": 827.24,
+      "avg_profit_per_hour": 5544.05,
+      "bonus": 46.33,
+      "opportunity_value": 0.05983
+    },
+    "广东省东莞市望牛墩镇": {
+      "count": 664,
+      "density": 0.01415,
+      "avg_price": 35186.47,
+      "avg_duration_minutes": 424.65,
+      "avg_profit_per_hour": 4996.5,
+      "bonus": 41.02,
+      "opportunity_value": 0.03537
+    },
+    "广东省东莞市莞城街道": {
+      "count": 207,
+      "density": 0.00441,
+      "avg_price": 39220.89,
+      "avg_duration_minutes": 451.58,
+      "avg_profit_per_hour": 5080.71,
+      "bonus": 40.72,
+      "opportunity_value": 0.01103
+    },
+    "广东省惠州市龙门县": {
+      "count": 1014,
+      "density": 0.02161,
+      "avg_price": 52645.39,
+      "avg_duration_minutes": 520.22,
+      "avg_profit_per_hour": 6102.13,
+      "bonus": 50.52,
+      "opportunity_value": 0.05403
+    },
+    "广东省中山市石岐街道": {
+      "count": 271,
+      "density": 0.00578,
+      "avg_price": 35692.36,
+      "avg_duration_minutes": 431.84,
+      "avg_profit_per_hour": 5083.8,
+      "bonus": 40.88,
+      "opportunity_value": 0.01445
+    },
+    "广东省中山市板芙镇": {
+      "count": 565,
+      "density": 0.01204,
+      "avg_price": 38351.55,
+      "avg_duration_minutes": 466.76,
+      "avg_profit_per_hour": 4961.24,
+      "bonus": 40.53,
+      "opportunity_value": 0.0301
+    },
+    "广东省江门市恩平市": {
+      "count": 1346,
+      "density": 0.02869,
+      "avg_price": 53588.38,
+      "avg_duration_minutes": 566.54,
+      "avg_profit_per_hour": 5744.31,
+      "bonus": 48.38,
+      "opportunity_value": 0.07172
+    },
+    "广东省中山市横栏镇": {
+      "count": 1257,
+      "density": 0.02679,
+      "avg_price": 38286.01,
+      "avg_duration_minutes": 467.43,
+      "avg_profit_per_hour": 4865.1,
+      "bonus": 41.23,
+      "opportunity_value": 0.06698
+    },
+    "广东省肇庆市德庆县": {
+      "count": 697,
+      "density": 0.01485,
+      "avg_price": 58853.63,
+      "avg_duration_minutes": 592.23,
+      "avg_profit_per_hour": 6125.35,
+      "bonus": 50.04,
+      "opportunity_value": 0.03712
+    },
+    "广东省韶关市乳源瑶族自治县": {
+      "count": 326,
+      "density": 0.00695,
+      "avg_price": 76214.0,
+      "avg_duration_minutes": 674.84,
+      "avg_profit_per_hour": 6569.31,
+      "bonus": 52.77,
+      "opportunity_value": 0.01737
+    },
+    "广东省中山市五桂山街道": {
+      "count": 190,
+      "density": 0.00405,
+      "avg_price": 39457.17,
+      "avg_duration_minutes": 466.33,
+      "avg_profit_per_hour": 5117.56,
+      "bonus": 40.98,
+      "opportunity_value": 0.01012
+    },
+    "广东省东莞市横沥镇": {
+      "count": 1136,
+      "density": 0.02421,
+      "avg_price": 33277.0,
+      "avg_duration_minutes": 437.58,
+      "avg_profit_per_hour": 4535.27,
+      "bonus": 38.36,
+      "opportunity_value": 0.06052
+    },
+    "广东省韶关市乐昌市": {
+      "count": 567,
+      "density": 0.01208,
+      "avg_price": 79225.51,
+      "avg_duration_minutes": 718.29,
+      "avg_profit_per_hour": 6641.3,
+      "bonus": 53.85,
+      "opportunity_value": 0.0302
+    },
+    "广东省东莞市石龙镇": {
+      "count": 272,
+      "density": 0.0058,
+      "avg_price": 34143.64,
+      "avg_duration_minutes": 441.33,
+      "avg_profit_per_hour": 4645.31,
+      "bonus": 37.41,
+      "opportunity_value": 0.0145
+    },
+    "广东省中山市神湾镇": {
+      "count": 368,
+      "density": 0.00784,
+      "avg_price": 41508.13,
+      "avg_duration_minutes": 483.16,
+      "avg_profit_per_hour": 5172.2,
+      "bonus": 41.79,
+      "opportunity_value": 0.0196
+    },
+    "广东省中山市阜沙镇": {
+      "count": 461,
+      "density": 0.00982,
+      "avg_price": 38262.29,
+      "avg_duration_minutes": 446.8,
+      "avg_profit_per_hour": 5152.4,
+      "bonus": 41.82,
+      "opportunity_value": 0.02455
+    },
+    "广东省东莞市松山湖管委会": {
+      "count": 55,
+      "density": 0.00117,
+      "avg_price": 37627.41,
+      "avg_duration_minutes": 434.76,
+      "avg_profit_per_hour": 5266.36,
+      "bonus": 41.87,
+      "opportunity_value": 0.00293
+    },
+    "广东省清远市连南瑶族自治县": {
+      "count": 134,
+      "density": 0.00286,
+      "avg_price": 72709.6,
+      "avg_duration_minutes": 666.78,
+      "avg_profit_per_hour": 6709.01,
+      "bonus": 53.48,
+      "opportunity_value": 0.00715
+    },
+    "广东省东莞市": {
+      "count": 26,
+      "density": 0.00055,
+      "avg_price": 46176.9,
+      "avg_duration_minutes": 426.62,
+      "avg_profit_per_hour": 6462.77,
+      "bonus": 51.3,
+      "opportunity_value": 0.00138
+    },
+    "广东省东莞市东莞生态园": {
+      "count": 3,
+      "density": 6e-05,
+      "avg_price": 52642.98,
+      "avg_duration_minutes": 471.0,
+      "avg_profit_per_hour": 6712.38,
+      "bonus": 53.23,
+      "opportunity_value": 0.00015
+    },
+    "广东省珠海市横琴新区": {
+      "count": 2,
+      "density": 4e-05,
+      "avg_price": 99793.01,
+      "avg_duration_minutes": 719.0,
+      "avg_profit_per_hour": 7719.02,
+      "bonus": 61.21,
+      "opportunity_value": 0.0001
+    },
+    "广东省珠海市高栏港经济区": {
+      "count": 1,
+      "density": 2e-05,
+      "avg_price": 50959.15,
+      "avg_duration_minutes": 589.0,
+      "avg_profit_per_hour": 5191.08,
+      "bonus": 41.16,
+      "opportunity_value": 5e-05
+    },
+    "广东省珠海市高新区": {
+      "count": 2,
+      "density": 4e-05,
+      "avg_price": 47074.25,
+      "avg_duration_minutes": 459.5,
+      "avg_profit_per_hour": 6027.54,
+      "bonus": 47.79,
+      "opportunity_value": 0.0001
+    },
+    "广东省东莞市虎门港管委会": {
+      "count": 6,
+      "density": 0.00013,
+      "avg_price": 78377.46,
+      "avg_duration_minutes": 688.33,
+      "avg_profit_per_hour": 6206.79,
+      "bonus": 49.22,
+      "opportunity_value": 0.00032
+    },
+    "广东省中山市": {
+      "count": 5,
+      "density": 0.00011,
+      "avg_price": 37532.82,
+      "avg_duration_minutes": 499.6,
+      "avg_profit_per_hour": 4313.72,
+      "bonus": 34.21,
+      "opportunity_value": 0.00028
+    },
+    "广东省潮州市枫溪区": {
+      "count": 1,
+      "density": 2e-05,
+      "avg_price": 195223.12,
+      "avg_duration_minutes": 995.0,
+      "avg_profit_per_hour": 11772.25,
+      "bonus": 81.0,
+      "opportunity_value": 5e-05
+    },
+    "广东省深圳市大鹏新区": {
+      "count": 1,
+      "density": 2e-05,
+      "avg_price": 42770.5,
+      "avg_duration_minutes": 698.0,
+      "avg_profit_per_hour": 3676.55,
+      "bonus": 29.15,
+      "opportunity_value": 5e-05
+    }
+  },
+  "category_prior": {
+    "数码家电": {
+      "count": 20455,
+      "density": 0.28799,
+      "avg_price": 36245.33,
+      "avg_duration_minutes": 467.62,
+      "avg_profit_per_hour": 4648.03,
+      "bonus": 43.58
+    },
+    "家具家居": {
+      "count": 28865,
+      "density": 0.40639,
+      "avg_price": 41737.45,
+      "avg_duration_minutes": 519.81,
+      "avg_profit_per_hour": 4730.22,
+      "bonus": 51.83
+    },
+    "食品饮料": {
+      "count": 47000,
+      "density": 0.66172,
+      "avg_price": 51785.18,
+      "avg_duration_minutes": 531.09,
+      "avg_profit_per_hour": 5707.65,
+      "bonus": 73.84
+    },
+    "机械设备": {
+      "count": 20669,
+      "density": 0.291,
+      "avg_price": 41504.4,
+      "avg_duration_minutes": 487.22,
+      "avg_profit_per_hour": 5025.67,
+      "bonus": 45.77
+    },
+    "办公文教体育": {
+      "count": 5771,
+      "density": 0.08125,
+      "avg_price": 41906.99,
+      "avg_duration_minutes": 549.92,
+      "avg_profit_per_hour": 4552.4,
+      "bonus": 29.43
+    },
+    "建材": {
+      "count": 55568,
+      "density": 0.78235,
+      "avg_price": 45410.77,
+      "avg_duration_minutes": 506.06,
+      "avg_profit_per_hour": 5328.4,
+      "bonus": 79.8
+    },
+    "鲜活水产品": {
+      "count": 2820,
+      "density": 0.0397,
+      "avg_price": 117029.97,
+      "avg_duration_minutes": 836.85,
+      "avg_profit_per_hour": 8280.93,
+      "bonus": 46.39
+    },
+    "车辆": {
+      "count": 5877,
+      "density": 0.08274,
+      "avg_price": 53084.86,
+      "avg_duration_minutes": 534.8,
+      "avg_profit_per_hour": 5686.61,
+      "bonus": 35.52
+    },
+    "木材苗圃": {
+      "count": 15061,
+      "density": 0.21205,
+      "avg_price": 52576.48,
+      "avg_duration_minutes": 507.91,
+      "avg_profit_per_hour": 6019.31,
+      "bonus": 45.81
+    },
+    "金属钢材": {
+      "count": 19647,
+      "density": 0.27661,
+      "avg_price": 42985.03,
+      "avg_duration_minutes": 481.05,
+      "avg_profit_per_hour": 5347.83,
+      "bonus": 46.52
+    },
+    "配件零件": {
+      "count": 71027,
+      "density": 1.0,
+      "avg_price": 32645.25,
+      "avg_duration_minutes": 437.78,
+      "avg_profit_per_hour": 4472.07,
+      "bonus": 89.64
+    },
+    "化工塑料": {
+      "count": 57307,
+      "density": 0.80683,
+      "avg_price": 39096.26,
+      "avg_duration_minutes": 475.85,
+      "avg_profit_per_hour": 4888.63,
+      "bonus": 79.09
+    },
+    "快递快运搬家": {
+      "count": 12837,
+      "density": 0.18073,
+      "avg_price": 43186.75,
+      "avg_duration_minutes": 501.29,
+      "avg_profit_per_hour": 5001.73,
+      "bonus": 38.37
+    },
+    "玉米": {
+      "count": 870,
+      "density": 0.01225,
+      "avg_price": 76975.0,
+      "avg_duration_minutes": 619.2,
+      "avg_profit_per_hour": 6780.65,
+      "bonus": 36.65
+    },
+    "蔬菜": {
+      "count": 8498,
+      "density": 0.11964,
+      "avg_price": 68809.11,
+      "avg_duration_minutes": 620.36,
+      "avg_profit_per_hour": 6326.6,
+      "bonus": 41.34
+    },
+    "水果": {
+      "count": 6114,
+      "density": 0.08608,
+      "avg_price": 76043.17,
+      "avg_duration_minutes": 658.7,
+      "avg_profit_per_hour": 6728.14,
+      "bonus": 41.24
+    },
+    "空包装": {
+      "count": 45159,
+      "density": 0.6358,
+      "avg_price": 35463.26,
+      "avg_duration_minutes": 469.79,
+      "avg_profit_per_hour": 4502.91,
+      "bonus": 65.76
+    },
+    "粮食谷物谷壳": {
+      "count": 3561,
+      "density": 0.05014,
+      "avg_price": 53962.8,
+      "avg_duration_minutes": 511.84,
+      "avg_profit_per_hour": 6227.58,
+      "bonus": 36.23
+    },
+    "服饰纺织皮革": {
+      "count": 23204,
+      "density": 0.32669,
+      "avg_price": 40493.85,
+      "avg_duration_minutes": 497.97,
+      "avg_profit_per_hour": 4769.02,
+      "bonus": 46.77
+    },
+    "纸类": {
+      "count": 10219,
+      "density": 0.14387,
+      "avg_price": 36478.09,
+      "avg_duration_minutes": 456.37,
+      "avg_profit_per_hour": 4665.66,
+      "bonus": 34.16
+    },
+    "设施用具": {
+      "count": 7297,
+      "density": 0.10274,
+      "avg_price": 44052.5,
+      "avg_duration_minutes": 510.5,
+      "avg_profit_per_hour": 5147.8,
+      "bonus": 33.99
+    },
+    "煤炭矿产": {
+      "count": 1409,
+      "density": 0.01984,
+      "avg_price": 49253.37,
+      "avg_duration_minutes": 502.61,
+      "avg_profit_per_hour": 5635.61,
+      "bonus": 31.1
+    },
+    "农用物资": {
+      "count": 13370,
+      "density": 0.18824,
+      "avg_price": 66543.34,
+      "avg_duration_minutes": 569.61,
+      "avg_profit_per_hour": 6905.96,
+      "bonus": 48.93
+    },
+    "快消医药": {
+      "count": 11487,
+      "density": 0.16173,
+      "avg_price": 40193.26,
+      "avg_duration_minutes": 478.57,
+      "avg_profit_per_hour": 4937.07,
+      "bonus": 36.77
+    },
+    "废品废料": {
+      "count": 4054,
+      "density": 0.05708,
+      "avg_price": 45925.85,
+      "avg_duration_minutes": 474.18,
+      "avg_profit_per_hour": 5733.45,
+      "bonus": 34.07
+    },
+    "经济作物": {
+      "count": 725,
+      "density": 0.01021,
+      "avg_price": 46182.51,
+      "avg_duration_minutes": 541.93,
+      "avg_profit_per_hour": 5080.61,
+      "bonus": 27.53
+    },
+    "活禽活畜活虫": {
+      "count": 541,
+      "density": 0.00762,
+      "avg_price": 90005.24,
+      "avg_duration_minutes": 740.96,
+      "avg_profit_per_hour": 7182.19,
+      "bonus": 38.47
+    },
+    "其他农产品": {
+      "count": 279,
+      "density": 0.00393,
+      "avg_price": 60746.09,
+      "avg_duration_minutes": 546.01,
+      "avg_profit_per_hour": 6518.45,
+      "bonus": 34.71
+    },
+    "其他": {
+      "count": 300,
+      "density": 0.00422,
+      "avg_price": 41175.56,
+      "avg_duration_minutes": 499.96,
+      "avg_profit_per_hour": 5008.22,
+      "bonus": 26.75
+    },
+    "农产品": {
+      "count": 8,
+      "density": 0.00011,
+      "avg_price": 70369.77,
+      "avg_duration_minutes": 605.38,
+      "avg_profit_per_hour": 7178.21,
+      "bonus": 37.95
+    },
+    "空桶": {
+      "count": 1,
+      "density": 1e-05,
+      "avg_price": 51465.6,
+      "avg_duration_minutes": 394.0,
+      "avg_profit_per_hour": 7837.4,
+      "bonus": 41.43
+    }
+  },
+  "query_k_prior": {
+    "0": 100,
+    "1": 100,
+    "2": 100,
+    "3": 100,
+    "4": 100,
+    "5": 100,
+    "6": 100,
+    "7": 200,
+    "8": 300,
+    "9": 300,
+    "10": 300,
+    "11": 300,
+    "12": 300,
+    "13": 300,
+    "14": 300,
+    "15": 300,
+    "16": 300,
+    "17": 200,
+    "18": 200,
+    "19": 200,
+    "20": 200,
+    "21": 100,
+    "22": 100,
+    "23": 100
+  }
+}

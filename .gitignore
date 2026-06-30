@@ -1,0 +1,49 @@
+# Secrets / local config
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node / frontend
+vis/node_modules/
+vis/dist/
+*.tsbuildinfo
+
+# Build / transfer artifacts
+*.tar
+*.tar.gz
+*.zip
+*.7z
+
+# Large local model/training outputs
+models/
+outputs/
+**/models/
+**/outputs/
+
+# Local benchmark/runtime outputs
+demo/results/
+submission_online_robust_initial/
+
+# Large competition/local data
+demo/server/data/cargo_dataset.jsonl
+
+# OS/editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
